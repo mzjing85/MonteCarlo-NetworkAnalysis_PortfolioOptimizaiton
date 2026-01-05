@@ -1,0 +1,3322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="market_cap" attr.type="float"/>
+<graph edgedefault="undirected"><node id="AA">
+  <data key="d0">6067.0</data>
+</node>
+<node id="AAL">
+  <data key="d0">6947.0</data>
+</node>
+<node id="AAP">
+  <data key="d0">5072.0</data>
+</node>
+<node id="AAPL">
+  <data key="d0">3594309.0</data>
+</node>
+<node id="ABBV">
+  <data key="d0">296719.0</data>
+</node>
+<node id="ABG">
+  <data key="d0">4811.0</data>
+</node>
+<node id="ABM">
+  <data key="d0">2824.0</data>
+</node>
+<node id="ABNB">
+  <data key="d0">106740.0</data>
+</node>
+<node id="ABT">
+  <data key="d0">179113.0</data>
+</node>
+<node id="ACI">
+  <data key="d0">11333.0</data>
+</node>
+<node id="ACM">
+  <data key="d0">13341.0</data>
+</node>
+<node id="ADBE">
+  <data key="d0">226061.0</data>
+</node>
+<node id="ADI">
+  <data key="d0">98086.0</data>
+</node>
+<node id="ADM">
+  <data key="d0">31347.0</data>
+</node>
+<node id="ADP">
+  <data key="d0">102591.0</data>
+</node>
+<node id="AEE">
+  <data key="d0">19711.0</data>
+</node>
+<node id="AEP">
+  <data key="d0">45339.0</data>
+</node>
+<node id="AES">
+  <data key="d0">12745.0</data>
+</node>
+<node id="AFG">
+  <data key="d0">11418.0</data>
+</node>
+<node id="AFL">
+  <data key="d0">49405.0</data>
+</node>
+<node id="AGCO">
+  <data key="d0">9180.0</data>
+</node>
+<node id="AIG">
+  <data key="d0">51514.0</data>
+</node>
+<node id="AIZ">
+  <data key="d0">9784.0</data>
+</node>
+<node id="AJG">
+  <data key="d0">54584.0</data>
+</node>
+<node id="ALB">
+  <data key="d0">15483.0</data>
+</node>
+<node id="ALK">
+  <data key="d0">5408.0</data>
+</node>
+<node id="ALL">
+  <data key="d0">44050.0</data>
+</node>
+<node id="ALLY">
+  <data key="d0">12338.0</data>
+</node>
+<node id="ALV">
+  <data key="d0">9810.0</data>
+</node>
+<node id="AMAT">
+  <data key="d0">171356.0</data>
+</node>
+<node id="AMD">
+  <data key="d0">291697.0</data>
+</node>
+<node id="AMGN">
+  <data key="d0">152373.0</data>
+</node>
+<node id="AMP">
+  <data key="d0">43928.0</data>
+</node>
+<node id="AMRK">
+  <data key="d0">701.0</data>
+</node>
+<node id="AMT">
+  <data key="d0">92147.0</data>
+</node>
+<node id="AMZN">
+  <data key="d0">2005565.0</data>
+</node>
+<node id="AN">
+  <data key="d0">6902.0</data>
+</node>
+<node id="ANDE">
+  <data key="d0">1953.0</data>
+</node>
+<node id="APA">
+  <data key="d0">10367.0</data>
+</node>
+<node id="APD">
+  <data key="d0">53857.0</data>
+</node>
+<node id="APH">
+  <data key="d0">69193.0</data>
+</node>
+<node id="APO">
+  <data key="d0">69703.0</data>
+</node>
+<node id="ARKO">
+  <data key="d0">662.0</data>
+</node>
+<node id="ARMK">
+  <data key="d0">8535.0</data>
+</node>
+<node id="ARW">
+  <data key="d0">6525.0</data>
+</node>
+<node id="ATUS">
+  <data key="d0">1191.0</data>
+</node>
+<node id="AVGO">
+  <data key="d0">797940.0</data>
+</node>
+<node id="AVT">
+  <data key="d0">4480.0</data>
+</node>
+<node id="AVY">
+  <data key="d0">17976.0</data>
+</node>
+<node id="AXP">
+  <data key="d0">175510.0</data>
+</node>
+<node id="AZO">
+  <data key="d0">54533.0</data>
+</node>
+<node id="BA">
+  <data key="d0">109953.0</data>
+</node>
+<node id="BAC">
+  <data key="d0">327595.0</data>
+</node>
+<node id="BAH">
+  <data key="d0">19260.0</data>
+</node>
+<node id="BALL">
+  <data key="d0">21206.0</data>
+</node>
+<node id="BAX">
+  <data key="d0">21705.0</data>
+</node>
+<node id="BBWI">
+  <data key="d0">11249.0</data>
+</node>
+<node id="BBY">
+  <data key="d0">18444.0</data>
+</node>
+<node id="BDX">
+  <data key="d0">71489.0</data>
+</node>
+<node id="BEN">
+  <data key="d0">14802.0</data>
+</node>
+<node id="BIIB">
+  <data key="d0">31344.0</data>
+</node>
+<node id="BJ">
+  <data key="d0">10059.0</data>
+</node>
+<node id="BK">
+  <data key="d0">49139.0</data>
+</node>
+<node id="BKNG">
+  <data key="d0">123968.0</data>
+</node>
+<node id="BKR">
+  <data key="d0">33530.0</data>
+</node>
+<node id="BLDR">
+  <data key="d0">25431.0</data>
+</node>
+<node id="BLK">
+  <data key="d0">124173.0</data>
+</node>
+<node id="BMY">
+  <data key="d0">81388.0</data>
+</node>
+<node id="BSX">
+  <data key="d0">100673.0</data>
+</node>
+<node id="BURL">
+  <data key="d0">14841.0</data>
+</node>
+<node id="BWA">
+  <data key="d0">8023.0</data>
+</node>
+<node id="BX">
+  <data key="d0">93883.0</data>
+</node>
+<node id="C">
+  <data key="d0">124251.0</data>
+</node>
+<node id="CAG">
+  <data key="d0">14168.0</data>
+</node>
+<node id="CAH">
+  <data key="d0">22832.0</data>
+</node>
+<node id="CAR">
+  <data key="d0">4344.0</data>
+</node>
+<node id="CARR">
+  <data key="d0">52323.0</data>
+</node>
+<node id="CASY">
+  <data key="d0">11788.0</data>
+</node>
+<node id="CAT">
+  <data key="d0">169100.0</data>
+</node>
+<node id="CBRE">
+  <data key="d0">29726.0</data>
+</node>
+<node id="CCK">
+  <data key="d0">9574.0</data>
+</node>
+<node id="CDW">
+  <data key="d0">34330.0</data>
+</node>
+<node id="CE">
+  <data key="d0">19173.0</data>
+</node>
+<node id="CEG">
+  <data key="d0">58250.0</data>
+</node>
+<node id="CFG">
+  <data key="d0">16635.0</data>
+</node>
+<node id="CHRW">
+  <data key="d0">8908.0</data>
+</node>
+<node id="CHTR">
+  <data key="d0">52350.0</data>
+</node>
+<node id="CHWY">
+  <data key="d0">6920.0</data>
+</node>
+<node id="CI">
+  <data key="d0">94148.0</data>
+</node>
+<node id="CINF">
+  <data key="d0">19456.0</data>
+</node>
+<node id="CL">
+  <data key="d0">74020.0</data>
+</node>
+<node id="CLF">
+  <data key="d0">11331.0</data>
+</node>
+<node id="CLX">
+  <data key="d0">19002.0</data>
+</node>
+<node id="CMC">
+  <data key="d0">6800.0</data>
+</node>
+<node id="CMCSA">
+  <data key="d0">152786.0</data>
+</node>
+<node id="CMG">
+  <data key="d0">79707.0</data>
+</node>
+<node id="CMI">
+  <data key="d0">39520.0</data>
+</node>
+<node id="CMS">
+  <data key="d0">18019.0</data>
+</node>
+<node id="CNC">
+  <data key="d0">35221.0</data>
+</node>
+<node id="CNP">
+  <data key="d0">18035.0</data>
+</node>
+<node id="CNXC">
+  <data key="d0">4342.0</data>
+</node>
+<node id="COF">
+  <data key="d0">55230.0</data>
+</node>
+<node id="COP">
+  <data key="d0">133994.0</data>
+</node>
+<node id="COR">
+  <data key="d0">43758.0</data>
+</node>
+<node id="COST">
+  <data key="d0">376272.0</data>
+</node>
+<node id="CPB">
+  <data key="d0">13251.0</data>
+</node>
+<node id="CPNG">
+  <data key="d0">31903.0</data>
+</node>
+<node id="CRM">
+  <data key="d0">245021.0</data>
+</node>
+<node id="CSCO">
+  <data key="d0">191932.0</data>
+</node>
+<node id="CSX">
+  <data key="d0">72568.0</data>
+</node>
+<node id="CTAS">
+  <data key="d0">69695.0</data>
+</node>
+<node id="CTSH">
+  <data key="d0">36487.0</data>
+</node>
+<node id="CTVA">
+  <data key="d0">40304.0</data>
+</node>
+<node id="CVNA">
+  <data key="d0">16944.0</data>
+</node>
+<node id="CVS">
+  <data key="d0">73653.0</data>
+</node>
+<node id="CVX">
+  <data key="d0">291950.0</data>
+</node>
+<node id="CYH">
+  <data key="d0">486.0</data>
+</node>
+<node id="CZR">
+  <data key="d0">9461.0</data>
+</node>
+<node id="D">
+  <data key="d0">41201.0</data>
+</node>
+<node id="DAL">
+  <data key="d0">27753.0</data>
+</node>
+<node id="DAN">
+  <data key="d0">1841.0</data>
+</node>
+<node id="DASH">
+  <data key="d0">55640.0</data>
+</node>
+<node id="DD">
+  <data key="d0">32016.0</data>
+</node>
+<node id="DE">
+  <data key="d0">102421.0</data>
+</node>
+<node id="DELL">
+  <data key="d0">97331.0</data>
+</node>
+<node id="DG">
+  <data key="d0">27918.0</data>
+</node>
+<node id="DGX">
+  <data key="d0">14783.0</data>
+</node>
+<node id="DHI">
+  <data key="d0">50108.0</data>
+</node>
+<node id="DHR">
+  <data key="d0">184929.0</data>
+</node>
+<node id="DINO">
+  <data key="d0">11988.0</data>
+</node>
+<node id="DIS">
+  <data key="d0">176598.0</data>
+</node>
+<node id="DK">
+  <data key="d0">1968.0</data>
+</node>
+<node id="DKS">
+  <data key="d0">18539.0</data>
+</node>
+<node id="DLTR">
+  <data key="d0">29024.0</data>
+</node>
+<node id="DOV">
+  <data key="d0">24342.0</data>
+</node>
+<node id="DOW">
+  <data key="d0">37463.0</data>
+</node>
+<node id="DRI">
+  <data key="d0">19960.0</data>
+</node>
+<node id="DTE">
+  <data key="d0">23205.0</data>
+</node>
+<node id="DUK">
+  <data key="d0">74608.0</data>
+</node>
+<node id="DVA">
+  <data key="d0">12107.0</data>
+</node>
+<node id="DVN">
+  <data key="d0">31864.0</data>
+</node>
+<node id="DXC">
+  <data key="d0">3879.0</data>
+</node>
+<node id="EA">
+  <data key="d0">35469.0</data>
+</node>
+<node id="EBAY">
+  <data key="d0">27340.0</data>
+</node>
+<node id="ECL">
+  <data key="d0">66017.0</data>
+</node>
+<node id="ED">
+  <data key="d0">31376.0</data>
+</node>
+<node id="EIX">
+  <data key="d0">27208.0</data>
+</node>
+<node id="EL">
+  <data key="d0">55259.0</data>
+</node>
+<node id="ELV">
+  <data key="d0">123335.0</data>
+</node>
+<node id="EME">
+  <data key="d0">16482.0</data>
+</node>
+<node id="EMN">
+  <data key="d0">11786.0</data>
+</node>
+<node id="EMR">
+  <data key="d0">64842.0</data>
+</node>
+<node id="EOG">
+  <data key="d0">73536.0</data>
+</node>
+<node id="EPD">
+  <data key="d0">64278.0</data>
+</node>
+<node id="EQH">
+  <data key="d0">12532.0</data>
+</node>
+<node id="EQIX">
+  <data key="d0">78094.0</data>
+</node>
+<node id="ES">
+  <data key="d0">20963.0</data>
+</node>
+<node id="ET">
+  <data key="d0">55235.0</data>
+</node>
+<node id="ETR">
+  <data key="d0">22536.0</data>
+</node>
+<node id="EXC">
+  <data key="d0">37560.0</data>
+</node>
+<node id="EXPD">
+  <data key="d0">17249.0</data>
+</node>
+<node id="EXPE">
+  <data key="d0">18774.0</data>
+</node>
+<node id="F">
+  <data key="d0">56811.0</data>
+</node>
+<node id="FANG">
+  <data key="d0">35363.0</data>
+</node>
+<node id="FAST">
+  <data key="d0">44157.0</data>
+</node>
+<node id="FCNCA">
+  <data key="d0">23620.0</data>
+</node>
+<node id="FCX">
+  <data key="d0">67446.0</data>
+</node>
+<node id="FDX">
+  <data key="d0">74517.0</data>
+</node>
+<node id="FE">
+  <data key="d0">22226.0</data>
+</node>
+<node id="FI">
+  <data key="d0">94358.0</data>
+</node>
+<node id="FIS">
+  <data key="d0">42762.0</data>
+</node>
+<node id="FITB">
+  <data key="d0">25435.0</data>
+</node>
+<node id="FLR">
+  <data key="d0">7192.0</data>
+</node>
+<node id="FMCC">
+  <data key="d0">4528.0</data>
+</node>
+<node id="FNF">
+  <data key="d0">14507.0</data>
+</node>
+<node id="FNMA">
+  <data key="d0">8585.0</data>
+</node>
+<node id="FOXA">
+  <data key="d0">14225.0</data>
+</node>
+<node id="GD">
+  <data key="d0">78309.0</data>
+</node>
+<node id="GE">
+  <data key="d0">174655.0</data>
+</node>
+<node id="GEHC">
+  <data key="d0">41397.0</data>
+</node>
+<node id="GILD">
+  <data key="d0">91341.0</data>
+</node>
+<node id="GIS">
+  <data key="d0">39502.0</data>
+</node>
+<node id="GLP">
+  <data key="d0">1509.0</data>
+</node>
+<node id="GLW">
+  <data key="d0">28192.0</data>
+</node>
+<node id="GM">
+  <data key="d0">56222.0</data>
+</node>
+<node id="GNW">
+  <data key="d0">2826.0</data>
+</node>
+<node id="GOOGL">
+  <data key="d0">2315182.0</data>
+</node>
+<node id="GPC">
+  <data key="d0">21601.0</data>
+</node>
+<node id="GPI">
+  <data key="d0">3999.0</data>
+</node>
+<node id="GPK">
+  <data key="d0">8931.0</data>
+</node>
+<node id="GPN">
+  <data key="d0">34095.0</data>
+</node>
+<node id="GS">
+  <data key="d0">164412.0</data>
+</node>
+<node id="GT">
+  <data key="d0">3901.0</data>
+</node>
+<node id="GWW">
+  <data key="d0">49983.0</data>
+</node>
+<node id="GXO">
+  <data key="d0">6412.0</data>
+</node>
+<node id="HAL">
+  <data key="d0">35088.0</data>
+</node>
+<node id="HBAN">
+  <data key="d0">20309.0</data>
+</node>
+<node id="HCA">
+  <data key="d0">83022.0</data>
+</node>
+<node id="HD">
+  <data key="d0">355454.0</data>
+</node>
+<node id="HIG">
+  <data key="d0">30637.0</data>
+</node>
+<node id="HII">
+  <data key="d0">11545.0</data>
+</node>
+<node id="HLT">
+  <data key="d0">53788.0</data>
+</node>
+<node id="HON">
+  <data key="d0">140474.0</data>
+</node>
+<node id="HPE">
+  <data key="d0">23049.0</data>
+</node>
+<node id="HPQ">
+  <data key="d0">36539.0</data>
+</node>
+<node id="HRL">
+  <data key="d0">19109.0</data>
+</node>
+<node id="HSIC">
+  <data key="d0">9705.0</data>
+</node>
+<node id="HSY">
+  <data key="d0">39719.0</data>
+</node>
+<node id="HTZ">
+  <data key="d0">2391.0</data>
+</node>
+<node id="HUM">
+  <data key="d0">46298.0</data>
+</node>
+<node id="IBKR">
+  <data key="d0">47328.0</data>
+</node>
+<node id="IBM">
+  <data key="d0">167994.0</data>
+</node>
+<node id="ICE">
+  <data key="d0">78695.0</data>
+</node>
+<node id="IEP">
+  <data key="d0">7298.0</data>
+</node>
+<node id="IFF">
+  <data key="d0">21955.0</data>
+</node>
+<node id="INGR">
+  <data key="d0">7666.0</data>
+</node>
+<node id="INTC">
+  <data key="d0">146692.0</data>
+</node>
+<node id="INTU">
+  <data key="d0">181986.0</data>
+</node>
+<node id="IP">
+  <data key="d0">13515.0</data>
+</node>
+<node id="IPG">
+  <data key="d0">12358.0</data>
+</node>
+<node id="IQV">
+  <data key="d0">46029.0</data>
+</node>
+<node id="ISRG">
+  <data key="d0">141457.0</data>
+</node>
+<node id="ITW">
+  <data key="d0">80162.0</data>
+</node>
+<node id="J">
+  <data key="d0">19316.0</data>
+</node>
+<node id="JBHT">
+  <data key="d0">20582.0</data>
+</node>
+<node id="JBL">
+  <data key="d0">13080.0</data>
+</node>
+<node id="JBLU">
+  <data key="d0">2524.0</data>
+</node>
+<node id="JEF">
+  <data key="d0">9348.0</data>
+</node>
+<node id="JLL">
+  <data key="d0">9256.0</data>
+</node>
+<node id="JNJ">
+  <data key="d0">359173.0</data>
+</node>
+<node id="JPM">
+  <data key="d0">603194.0</data>
+</node>
+<node id="K">
+  <data key="d0">19579.0</data>
+</node>
+<node id="KD">
+  <data key="d0">5007.0</data>
+</node>
+<node id="KDP">
+  <data key="d0">42557.0</data>
+</node>
+<node id="KEY">
+  <data key="d0">14663.0</data>
+</node>
+<node id="KHC">
+  <data key="d0">44857.0</data>
+</node>
+<node id="KKR">
+  <data key="d0">89014.0</data>
+</node>
+<node id="KLAC">
+  <data key="d0">94470.0</data>
+</node>
+<node id="KMB">
+  <data key="d0">43580.0</data>
+</node>
+<node id="KMI">
+  <data key="d0">40703.0</data>
+</node>
+<node id="KMX">
+  <data key="d0">13757.0</data>
+</node>
+<node id="KNX">
+  <data key="d0">8885.0</data>
+</node>
+<node id="KO">
+  <data key="d0">273167.0</data>
+</node>
+<node id="KR">
+  <data key="d0">37620.0</data>
+</node>
+<node id="KSS">
+  <data key="d0">3233.0</data>
+</node>
+<node id="L">
+  <data key="d0">17396.0</data>
+</node>
+<node id="LAD">
+  <data key="d0">8283.0</data>
+</node>
+<node id="LDOS">
+  <data key="d0">17701.0</data>
+</node>
+<node id="LEA">
+  <data key="d0">8263.0</data>
+</node>
+<node id="LEN">
+  <data key="d0">43389.0</data>
+</node>
+<node id="LH">
+  <data key="d0">18373.0</data>
+</node>
+<node id="LHX">
+  <data key="d0">40508.0</data>
+</node>
+<node id="LKQ">
+  <data key="d0">14249.0</data>
+</node>
+<node id="LLY">
+  <data key="d0">903322.0</data>
+</node>
+<node id="LMT">
+  <data key="d0">111303.0</data>
+</node>
+<node id="LNC">
+  <data key="d0">5418.0</data>
+</node>
+<node id="LNG">
+  <data key="d0">37851.0</data>
+</node>
+<node id="LOW">
+  <data key="d0">132299.0</data>
+</node>
+<node id="LPLA">
+  <data key="d0">19736.0</data>
+</node>
+<node id="LRCX">
+  <data key="d0">127376.0</data>
+</node>
+<node id="LULU">
+  <data key="d0">49225.0</data>
+</node>
+<node id="LUMN">
+  <data key="d0">1585.0</data>
+</node>
+<node id="LUV">
+  <data key="d0">17417.0</data>
+</node>
+<node id="LVS">
+  <data key="d0">38840.0</data>
+</node>
+<node id="LYV">
+  <data key="d0">24412.0</data>
+</node>
+<node id="M">
+  <data key="d0">5483.0</data>
+</node>
+<node id="MA">
+  <data key="d0">449253.0</data>
+</node>
+<node id="MAN">
+  <data key="d0">3756.0</data>
+</node>
+<node id="MAR">
+  <data key="d0">72731.0</data>
+</node>
+<node id="MAS">
+  <data key="d0">17335.0</data>
+</node>
+<node id="MCD">
+  <data key="d0">203582.0</data>
+</node>
+<node id="MCHP">
+  <data key="d0">48478.0</data>
+</node>
+<node id="MCK">
+  <data key="d0">75007.0</data>
+</node>
+<node id="MDLZ">
+  <data key="d0">86317.0</data>
+</node>
+<node id="MET">
+  <data key="d0">52929.0</data>
+</node>
+<node id="META">
+  <data key="d0">1258678.0</data>
+</node>
+<node id="MGM">
+  <data key="d0">14966.0</data>
+</node>
+<node id="MHK">
+  <data key="d0">8337.0</data>
+</node>
+<node id="MKL">
+  <data key="d0">19947.0</data>
+</node>
+<node id="MMC">
+  <data key="d0">101658.0</data>
+</node>
+<node id="MMM">
+  <data key="d0">56841.0</data>
+</node>
+<node id="MNST">
+  <data key="d0">61689.0</data>
+</node>
+<node id="MO">
+  <data key="d0">76922.0</data>
+</node>
+<node id="MOH">
+  <data key="d0">16755.0</data>
+</node>
+<node id="MOS">
+  <data key="d0">10442.0</data>
+</node>
+<node id="MPC">
+  <data key="d0">58737.0</data>
+</node>
+<node id="MRK">
+  <data key="d0">324503.0</data>
+</node>
+<node id="MS">
+  <data key="d0">171065.0</data>
+</node>
+<node id="MSFT">
+  <data key="d0">3373970.0</data>
+</node>
+<node id="MSI">
+  <data key="d0">59142.0</data>
+</node>
+<node id="MTB">
+  <data key="d0">24233.0</data>
+</node>
+<node id="MTZ">
+  <data key="d0">7393.0</data>
+</node>
+<node id="MU">
+  <data key="d0">130548.0</data>
+</node>
+<node id="MUSA">
+  <data key="d0">8727.0</data>
+</node>
+<node id="NEE">
+  <data key="d0">131171.0</data>
+</node>
+<node id="NEM">
+  <data key="d0">41316.0</data>
+</node>
+<node id="NFLX">
+  <data key="d0">282865.0</data>
+</node>
+<node id="NGL">
+  <data key="d0">763.0</data>
+</node>
+<node id="NKE">
+  <data key="d0">107632.0</data>
+</node>
+<node id="NOC">
+  <data key="d0">63920.0</data>
+</node>
+<node id="NOV">
+  <data key="d0">7691.0</data>
+</node>
+<node id="NOW">
+  <data key="d0">156292.0</data>
+</node>
+<node id="NRG">
+  <data key="d0">14535.0</data>
+</node>
+<node id="NSC">
+  <data key="d0">57570.0</data>
+</node>
+<node id="NSIT">
+  <data key="d0">6046.0</data>
+</node>
+<node id="NTRS">
+  <data key="d0">18141.0</data>
+</node>
+<node id="NUE">
+  <data key="d0">39530.0</data>
+</node>
+<node id="NVDA">
+  <data key="d0">3159624.0</data>
+</node>
+<node id="NVR">
+  <data key="d0">25904.0</data>
+</node>
+<node id="NWL">
+  <data key="d0">3334.0</data>
+</node>
+<node id="NWSA">
+  <data key="d0">15120.0</data>
+</node>
+<node id="OC">
+  <data key="d0">14510.0</data>
+</node>
+<node id="ODP">
+  <data key="d0">1943.0</data>
+</node>
+<node id="OI">
+  <data key="d0">2549.0</data>
+</node>
+<node id="OKE">
+  <data key="d0">46752.0</data>
+</node>
+<node id="OMC">
+  <data key="d0">19081.0</data>
+</node>
+<node id="OMI">
+  <data key="d0">2123.0</data>
+</node>
+<node id="ON">
+  <data key="d0">31430.0</data>
+</node>
+<node id="ORCL">
+  <data key="d0">394281.0</data>
+</node>
+<node id="ORI">
+  <data key="d0">8464.0</data>
+</node>
+<node id="ORLY">
+  <data key="d0">66634.0</data>
+</node>
+<node id="OSK">
+  <data key="d0">8178.0</data>
+</node>
+<node id="OTIS">
+  <data key="d0">40250.0</data>
+</node>
+<node id="OVV">
+  <data key="d0">13959.0</data>
+</node>
+<node id="OXY">
+  <data key="d0">57611.0</data>
+</node>
+<node id="PAG">
+  <data key="d0">10861.0</data>
+</node>
+<node id="PAGP">
+  <data key="d0">3862.0</data>
+</node>
+<node id="PARR">
+  <data key="d0">2199.0</data>
+</node>
+<node id="PBF">
+  <data key="d0">4790.0</data>
+</node>
+<node id="PCAR">
+  <data key="d0">54799.0</data>
+</node>
+<node id="PCG">
+  <data key="d0">35760.0</data>
+</node>
+<node id="PEG">
+  <data key="d0">33296.0</data>
+</node>
+<node id="PEP">
+  <data key="d0">225074.0</data>
+</node>
+<node id="PFE">
+  <data key="d0">164898.0</data>
+</node>
+<node id="PFG">
+  <data key="d0">20358.0</data>
+</node>
+<node id="PFGC">
+  <data key="d0">9951.0</data>
+</node>
+<node id="PG">
+  <data key="d0">388431.0</data>
+</node>
+<node id="PGR">
+  <data key="d0">127155.0</data>
+</node>
+<node id="PH">
+  <data key="d0">71370.0</data>
+</node>
+<node id="PHM">
+  <data key="d0">25449.0</data>
+</node>
+<node id="PII">
+  <data key="d0">5655.0</data>
+</node>
+<node id="PKG">
+  <data key="d0">17034.0</data>
+</node>
+<node id="PLD">
+  <data key="d0">120460.0</data>
+</node>
+<node id="PM">
+  <data key="d0">163337.0</data>
+</node>
+<node id="PNC">
+  <data key="d0">64292.0</data>
+</node>
+<node id="PPG">
+  <data key="d0">34104.0</data>
+</node>
+<node id="PPL">
+  <data key="d0">20306.0</data>
+</node>
+<node id="PRU">
+  <data key="d0">45069.0</data>
+</node>
+<node id="PSX">
+  <data key="d0">59383.0</data>
+</node>
+<node id="PVH">
+  <data key="d0">8386.0</data>
+</node>
+<node id="PWR">
+  <data key="d0">37866.0</data>
+</node>
+<node id="PYPL">
+  <data key="d0">71796.0</data>
+</node>
+<node id="QCOM">
+  <data key="d0">232329.0</data>
+</node>
+<node id="R">
+  <data key="d0">5321.0</data>
+</node>
+<node id="REGN">
+  <data key="d0">105645.0</data>
+</node>
+<node id="RF">
+  <data key="d0">19333.0</data>
+</node>
+<node id="RGA">
+  <data key="d0">12683.0</data>
+</node>
+<node id="RJF">
+  <data key="d0">26843.0</data>
+</node>
+<node id="ROK">
+  <data key="d0">33384.0</data>
+</node>
+<node id="ROST">
+  <data key="d0">49409.0</data>
+</node>
+<node id="RPM">
+  <data key="d0">15329.0</data>
+</node>
+<node id="RS">
+  <data key="d0">19190.0</data>
+</node>
+<node id="RSG">
+  <data key="d0">60229.0</data>
+</node>
+<node id="RTX">
+  <data key="d0">135104.0</data>
+</node>
+<node id="RUSHB">
+  <data key="d0">4164.0</data>
+</node>
+<node id="SAH">
+  <data key="d0">1942.0</data>
+</node>
+<node id="SAIC">
+  <data key="d0">6734.0</data>
+</node>
+<node id="SANM">
+  <data key="d0">3468.0</data>
+</node>
+<node id="SATS">
+  <data key="d0">3869.0</data>
+</node>
+<node id="SBUX">
+  <data key="d0">82404.0</data>
+</node>
+<node id="SCHW">
+  <data key="d0">131975.0</data>
+</node>
+<node id="SEB">
+  <data key="d0">3131.0</data>
+</node>
+<node id="SHW">
+  <data key="d0">88255.0</data>
+</node>
+<node id="SJM">
+  <data key="d0">13364.0</data>
+</node>
+<node id="SMCI">
+  <data key="d0">59138.0</data>
+</node>
+<node id="SNEX">
+  <data key="d0">2516.0</data>
+</node>
+<node id="SNX">
+  <data key="d0">9836.0</data>
+</node>
+<node id="SO">
+  <data key="d0">78269.0</data>
+</node>
+<node id="SPGI">
+  <data key="d0">136253.0</data>
+</node>
+<node id="SRE">
+  <data key="d0">45439.0</data>
+</node>
+<node id="STLD">
+  <data key="d0">23413.0</data>
+</node>
+<node id="STT">
+  <data key="d0">23346.0</data>
+</node>
+<node id="STZ">
+  <data key="d0">49683.0</data>
+</node>
+<node id="SWK">
+  <data key="d0">15062.0</data>
+</node>
+<node id="SYF">
+  <data key="d0">17543.0</data>
+</node>
+<node id="SYK">
+  <data key="d0">136159.0</data>
+</node>
+<node id="SYY">
+  <data key="d0">35755.0</data>
+</node>
+<node id="T">
+  <data key="d0">133222.0</data>
+</node>
+<node id="TAP">
+  <data key="d0">14298.0</data>
+</node>
+<node id="TFC">
+  <data key="d0">55397.0</data>
+</node>
+<node id="TGT">
+  <data key="d0">69997.0</data>
+</node>
+<node id="THC">
+  <data key="d0">10511.0</data>
+</node>
+<node id="THO">
+  <data key="d0">6257.0</data>
+</node>
+<node id="TJX">
+  <data key="d0">128622.0</data>
+</node>
+<node id="TMHC">
+  <data key="d0">6617.0</data>
+</node>
+<node id="TMO">
+  <data key="d0">207913.0</data>
+</node>
+<node id="TOL">
+  <data key="d0">13477.0</data>
+</node>
+<node id="TRGP">
+  <data key="d0">24922.0</data>
+</node>
+<node id="TRV">
+  <data key="d0">48867.0</data>
+</node>
+<node id="TSCO">
+  <data key="d0">28248.0</data>
+</node>
+<node id="TSLA">
+  <data key="d0">805719.0</data>
+</node>
+<node id="TSN">
+  <data key="d0">20461.0</data>
+</node>
+<node id="TXN">
+  <data key="d0">158541.0</data>
+</node>
+<node id="TXT">
+  <data key="d0">18501.0</data>
+</node>
+<node id="UAL">
+  <data key="d0">14573.0</data>
+</node>
+<node id="UBER">
+  <data key="d0">151051.0</data>
+</node>
+<node id="UFPI">
+  <data key="d0">7569.0</data>
+</node>
+<node id="UGI">
+  <data key="d0">5142.0</data>
+</node>
+<node id="UHS">
+  <data key="d0">12265.0</data>
+</node>
+<node id="ULTA">
+  <data key="d0">25239.0</data>
+</node>
+<node id="UNFI">
+  <data key="d0">683.0</data>
+</node>
+<node id="UNH">
+  <data key="d0">474339.0</data>
+</node>
+<node id="UNM">
+  <data key="d0">10299.0</data>
+</node>
+<node id="UNP">
+  <data key="d0">150041.0</data>
+</node>
+<node id="UPS">
+  <data key="d0">123329.0</data>
+</node>
+<node id="URI">
+  <data key="d0">48437.0</data>
+</node>
+<node id="USB">
+  <data key="d0">66086.0</data>
+</node>
+<node id="USFD">
+  <data key="d0">12829.0</data>
+</node>
+<node id="V">
+  <data key="d0">551134.0</data>
+</node>
+<node id="VFC">
+  <data key="d0">5964.0</data>
+</node>
+<node id="VLO">
+  <data key="d0">48641.0</data>
+</node>
+<node id="VMC">
+  <data key="d0">36100.0</data>
+</node>
+<node id="VOYA">
+  <data key="d0">7511.0</data>
+</node>
+<node id="VRTX">
+  <data key="d0">107975.0</data>
+</node>
+<node id="VST">
+  <data key="d0">24230.0</data>
+</node>
+<node id="VTRS">
+  <data key="d0">14180.0</data>
+</node>
+<node id="VZ">
+  <data key="d0">171696.0</data>
+</node>
+<node id="W">
+  <data key="d0">8175.0</data>
+</node>
+<node id="WAB">
+  <data key="d0">25790.0</data>
+</node>
+<node id="WBD">
+  <data key="d0">18181.0</data>
+</node>
+<node id="WCC">
+  <data key="d0">8727.0</data>
+</node>
+<node id="WDAY">
+  <data key="d0">72006.0</data>
+</node>
+<node id="WDC">
+  <data key="d0">22279.0</data>
+</node>
+<node id="WEC">
+  <data key="d0">25935.0</data>
+</node>
+<node id="WFC">
+  <data key="d0">201265.0</data>
+</node>
+<node id="WHR">
+  <data key="d0">6515.0</data>
+</node>
+<node id="WKC">
+  <data key="d0">1579.0</data>
+</node>
+<node id="WLK">
+  <data key="d0">19637.0</data>
+</node>
+<node id="WM">
+  <data key="d0">85601.0</data>
+</node>
+<node id="WMB">
+  <data key="d0">47482.0</data>
+</node>
+<node id="WMT">
+  <data key="d0">559911.0</data>
+</node>
+<node id="WRB">
+  <data key="d0">22689.0</data>
+</node>
+<node id="WSM">
+  <data key="d0">20358.0</data>
+</node>
+<node id="WSO">
+  <data key="d0">17061.0</data>
+</node>
+<node id="WY">
+  <data key="d0">26201.0</data>
+</node>
+<node id="XEL">
+  <data key="d0">29840.0</data>
+</node>
+<node id="XOM">
+  <data key="d0">516824.0</data>
+</node>
+<node id="XPO">
+  <data key="d0">14169.0</data>
+</node>
+<node id="XYL">
+  <data key="d0">31246.0</data>
+</node>
+<node id="YUMC">
+  <data key="d0">15599.0</data>
+</node>
+<node id="ZBH">
+  <data key="d0">27117.0</data>
+</node>
+<node id="ZTS">
+  <data key="d0">77476.0</data>
+</node>
+<edge source="AA" target="CLF"/>
+<edge source="AA" target="CMC"/>
+<edge source="AA" target="NUE"/>
+<edge source="AA" target="RS"/>
+<edge source="AA" target="STLD"/>
+<edge source="AAL" target="ALK"/>
+<edge source="AAL" target="DAL"/>
+<edge source="AAL" target="JBLU"/>
+<edge source="AAL" target="LUV"/>
+<edge source="AAL" target="UAL"/>
+<edge source="AAP" target="ARKO"/>
+<edge source="AAP" target="AZO"/>
+<edge source="AAP" target="BBWI"/>
+<edge source="AAP" target="BBY"/>
+<edge source="AAP" target="CASY"/>
+<edge source="AAP" target="DG"/>
+<edge source="AAP" target="DKS"/>
+<edge source="AAP" target="DLTR"/>
+<edge source="AAP" target="HD"/>
+<edge source="AAP" target="LOW"/>
+<edge source="AAP" target="MUSA"/>
+<edge source="AAP" target="ODP"/>
+<edge source="AAP" target="ORLY"/>
+<edge source="AAP" target="TSCO"/>
+<edge source="AAP" target="ULTA"/>
+<edge source="AAP" target="WSM"/>
+<edge source="AAPL" target="DELL"/>
+<edge source="AAPL" target="HPE"/>
+<edge source="AAPL" target="HPQ"/>
+<edge source="AAPL" target="SMCI"/>
+<edge source="AAPL" target="WDC"/>
+<edge source="ABBV" target="AMGN"/>
+<edge source="ABBV" target="BIIB"/>
+<edge source="ABBV" target="BMY"/>
+<edge source="ABBV" target="GILD"/>
+<edge source="ABBV" target="JNJ"/>
+<edge source="ABBV" target="LLY"/>
+<edge source="ABBV" target="MRK"/>
+<edge source="ABBV" target="PFE"/>
+<edge source="ABBV" target="REGN"/>
+<edge source="ABBV" target="VRTX"/>
+<edge source="ABBV" target="VTRS"/>
+<edge source="ABBV" target="ZTS"/>
+<edge source="ABG" target="AN"/>
+<edge source="ABG" target="CAR"/>
+<edge source="ABG" target="CVNA"/>
+<edge source="ABG" target="GPI"/>
+<edge source="ABG" target="HTZ"/>
+<edge source="ABG" target="KMX"/>
+<edge source="ABG" target="LAD"/>
+<edge source="ABG" target="PAG"/>
+<edge source="ABG" target="RUSHB"/>
+<edge source="ABG" target="SAH"/>
+<edge source="ABM" target="ADP"/>
+<edge source="ABM" target="ARMK"/>
+<edge source="ABM" target="CTAS"/>
+<edge source="ABM" target="J"/>
+<edge source="ABNB" target="AMZN"/>
+<edge source="ABNB" target="BKNG"/>
+<edge source="ABNB" target="CHWY"/>
+<edge source="ABNB" target="CPNG"/>
+<edge source="ABNB" target="DASH"/>
+<edge source="ABNB" target="EBAY"/>
+<edge source="ABNB" target="EXPE"/>
+<edge source="ABNB" target="GOOGL"/>
+<edge source="ABNB" target="META"/>
+<edge source="ABNB" target="UBER"/>
+<edge source="ABNB" target="W"/>
+<edge source="ABT" target="BAX"/>
+<edge source="ABT" target="BDX"/>
+<edge source="ABT" target="BSX"/>
+<edge source="ABT" target="DHR"/>
+<edge source="ABT" target="GEHC"/>
+<edge source="ABT" target="ISRG"/>
+<edge source="ABT" target="SYK"/>
+<edge source="ABT" target="ZBH"/>
+<edge source="ACI" target="KR"/>
+<edge source="ACI" target="PFE"/>
+<edge source="ACM" target="EME"/>
+<edge source="ACM" target="FLR"/>
+<edge source="ACM" target="MTZ"/>
+<edge source="ACM" target="PWR"/>
+<edge source="ADBE" target="CRM"/>
+<edge source="ADBE" target="INTU"/>
+<edge source="ADBE" target="MSFT"/>
+<edge source="ADBE" target="NOW"/>
+<edge source="ADBE" target="ORCL"/>
+<edge source="ADBE" target="WDAY"/>
+<edge source="ADI" target="AMAT"/>
+<edge source="ADI" target="AMD"/>
+<edge source="ADI" target="AVGO"/>
+<edge source="ADI" target="INTC"/>
+<edge source="ADI" target="JBL"/>
+<edge source="ADI" target="KLAC"/>
+<edge source="ADI" target="LRCX"/>
+<edge source="ADI" target="MCHP"/>
+<edge source="ADI" target="MU"/>
+<edge source="ADI" target="NVDA"/>
+<edge source="ADI" target="ON"/>
+<edge source="ADI" target="QCOM"/>
+<edge source="ADI" target="SANM"/>
+<edge source="ADI" target="TXN"/>
+<edge source="ADM" target="ANDE"/>
+<edge source="ADM" target="CTVA"/>
+<edge source="ADM" target="INGR"/>
+<edge source="ADM" target="SEB"/>
+<edge source="ADM" target="TSN"/>
+<edge source="ADP" target="ARMK"/>
+<edge source="ADP" target="CTAS"/>
+<edge source="ADP" target="J"/>
+<edge source="AEE" target="AEP"/>
+<edge source="AEE" target="AES"/>
+<edge source="AEE" target="CMS"/>
+<edge source="AEE" target="CNP"/>
+<edge source="AEE" target="D"/>
+<edge source="AEE" target="DTE"/>
+<edge source="AEE" target="DUK"/>
+<edge source="AEE" target="ED"/>
+<edge source="AEE" target="EIX"/>
+<edge source="AEE" target="ES"/>
+<edge source="AEE" target="ETR"/>
+<edge source="AEE" target="EXC"/>
+<edge source="AEE" target="FE"/>
+<edge source="AEE" target="NEE"/>
+<edge source="AEE" target="PCG"/>
+<edge source="AEE" target="PEG"/>
+<edge source="AEE" target="PPL"/>
+<edge source="AEE" target="SO"/>
+<edge source="AEE" target="SRE"/>
+<edge source="AEE" target="UGI"/>
+<edge source="AEE" target="WEC"/>
+<edge source="AEE" target="XEL"/>
+<edge source="AEP" target="AES"/>
+<edge source="AEP" target="CMS"/>
+<edge source="AEP" target="CNP"/>
+<edge source="AEP" target="D"/>
+<edge source="AEP" target="DTE"/>
+<edge source="AEP" target="DUK"/>
+<edge source="AEP" target="ED"/>
+<edge source="AEP" target="EIX"/>
+<edge source="AEP" target="ES"/>
+<edge source="AEP" target="ETR"/>
+<edge source="AEP" target="EXC"/>
+<edge source="AEP" target="FE"/>
+<edge source="AEP" target="NEE"/>
+<edge source="AEP" target="PCG"/>
+<edge source="AEP" target="PEG"/>
+<edge source="AEP" target="PPL"/>
+<edge source="AEP" target="SO"/>
+<edge source="AEP" target="SRE"/>
+<edge source="AEP" target="UGI"/>
+<edge source="AEP" target="WEC"/>
+<edge source="AEP" target="XEL"/>
+<edge source="AES" target="CMS"/>
+<edge source="AES" target="CNP"/>
+<edge source="AES" target="D"/>
+<edge source="AES" target="DTE"/>
+<edge source="AES" target="DUK"/>
+<edge source="AES" target="ED"/>
+<edge source="AES" target="EIX"/>
+<edge source="AES" target="ES"/>
+<edge source="AES" target="ETR"/>
+<edge source="AES" target="EXC"/>
+<edge source="AES" target="FE"/>
+<edge source="AES" target="NEE"/>
+<edge source="AES" target="PCG"/>
+<edge source="AES" target="PEG"/>
+<edge source="AES" target="PPL"/>
+<edge source="AES" target="SO"/>
+<edge source="AES" target="SRE"/>
+<edge source="AES" target="UGI"/>
+<edge source="AES" target="WEC"/>
+<edge source="AES" target="XEL"/>
+<edge source="AFG" target="AIG"/>
+<edge source="AFG" target="AIZ"/>
+<edge source="AFG" target="ALL"/>
+<edge source="AFG" target="CINF"/>
+<edge source="AFG" target="FNF"/>
+<edge source="AFG" target="HIG"/>
+<edge source="AFG" target="L"/>
+<edge source="AFG" target="MKL"/>
+<edge source="AFG" target="ORI"/>
+<edge source="AFG" target="PGR"/>
+<edge source="AFG" target="TRV"/>
+<edge source="AFG" target="WRB"/>
+<edge source="AFL" target="EQH"/>
+<edge source="AFL" target="GNW"/>
+<edge source="AFL" target="LNC"/>
+<edge source="AFL" target="MET"/>
+<edge source="AFL" target="PFG"/>
+<edge source="AFL" target="PRU"/>
+<edge source="AFL" target="RGA"/>
+<edge source="AFL" target="UNM"/>
+<edge source="AGCO" target="CAT"/>
+<edge source="AGCO" target="DE"/>
+<edge source="AGCO" target="OSK"/>
+<edge source="AIG" target="AIZ"/>
+<edge source="AIG" target="ALL"/>
+<edge source="AIG" target="CINF"/>
+<edge source="AIG" target="FNF"/>
+<edge source="AIG" target="HIG"/>
+<edge source="AIG" target="L"/>
+<edge source="AIG" target="MKL"/>
+<edge source="AIG" target="ORI"/>
+<edge source="AIG" target="PGR"/>
+<edge source="AIG" target="TRV"/>
+<edge source="AIG" target="WRB"/>
+<edge source="AIZ" target="ALL"/>
+<edge source="AIZ" target="CINF"/>
+<edge source="AIZ" target="FNF"/>
+<edge source="AIZ" target="HIG"/>
+<edge source="AIZ" target="L"/>
+<edge source="AIZ" target="MKL"/>
+<edge source="AIZ" target="ORI"/>
+<edge source="AIZ" target="PGR"/>
+<edge source="AIZ" target="TRV"/>
+<edge source="AIZ" target="WRB"/>
+<edge source="AJG" target="ALLY"/>
+<edge source="AJG" target="AMP"/>
+<edge source="AJG" target="AXP"/>
+<edge source="AJG" target="BX"/>
+<edge source="AJG" target="FMCC"/>
+<edge source="AJG" target="FNMA"/>
+<edge source="AJG" target="IEP"/>
+<edge source="AJG" target="JEF"/>
+<edge source="AJG" target="MMC"/>
+<edge source="AJG" target="SNEX"/>
+<edge source="AJG" target="SYF"/>
+<edge source="AJG" target="VOYA"/>
+<edge source="ALB" target="APD"/>
+<edge source="ALB" target="CE"/>
+<edge source="ALB" target="DD"/>
+<edge source="ALB" target="DOW"/>
+<edge source="ALB" target="ECL"/>
+<edge source="ALB" target="EMN"/>
+<edge source="ALB" target="IFF"/>
+<edge source="ALB" target="MMM"/>
+<edge source="ALB" target="MOS"/>
+<edge source="ALB" target="PPG"/>
+<edge source="ALB" target="RPM"/>
+<edge source="ALB" target="SHW"/>
+<edge source="ALB" target="WLK"/>
+<edge source="ALK" target="DAL"/>
+<edge source="ALK" target="JBLU"/>
+<edge source="ALK" target="LUV"/>
+<edge source="ALK" target="UAL"/>
+<edge source="ALL" target="CINF"/>
+<edge source="ALL" target="FNF"/>
+<edge source="ALL" target="HIG"/>
+<edge source="ALL" target="L"/>
+<edge source="ALL" target="MKL"/>
+<edge source="ALL" target="ORI"/>
+<edge source="ALL" target="PGR"/>
+<edge source="ALL" target="TRV"/>
+<edge source="ALL" target="WRB"/>
+<edge source="ALLY" target="AMP"/>
+<edge source="ALLY" target="AXP"/>
+<edge source="ALLY" target="BX"/>
+<edge source="ALLY" target="FMCC"/>
+<edge source="ALLY" target="FNMA"/>
+<edge source="ALLY" target="IEP"/>
+<edge source="ALLY" target="JEF"/>
+<edge source="ALLY" target="MMC"/>
+<edge source="ALLY" target="SNEX"/>
+<edge source="ALLY" target="SYF"/>
+<edge source="ALLY" target="VOYA"/>
+<edge source="ALV" target="BWA"/>
+<edge source="ALV" target="DAN"/>
+<edge source="ALV" target="F"/>
+<edge source="ALV" target="GM"/>
+<edge source="ALV" target="GT"/>
+<edge source="ALV" target="LEA"/>
+<edge source="ALV" target="PCAR"/>
+<edge source="ALV" target="THO"/>
+<edge source="ALV" target="TSLA"/>
+<edge source="AMAT" target="AMD"/>
+<edge source="AMAT" target="AVGO"/>
+<edge source="AMAT" target="INTC"/>
+<edge source="AMAT" target="JBL"/>
+<edge source="AMAT" target="KLAC"/>
+<edge source="AMAT" target="LRCX"/>
+<edge source="AMAT" target="MCHP"/>
+<edge source="AMAT" target="MU"/>
+<edge source="AMAT" target="NVDA"/>
+<edge source="AMAT" target="ON"/>
+<edge source="AMAT" target="QCOM"/>
+<edge source="AMAT" target="SANM"/>
+<edge source="AMAT" target="TXN"/>
+<edge source="AMD" target="AVGO"/>
+<edge source="AMD" target="INTC"/>
+<edge source="AMD" target="JBL"/>
+<edge source="AMD" target="KLAC"/>
+<edge source="AMD" target="LRCX"/>
+<edge source="AMD" target="MCHP"/>
+<edge source="AMD" target="MU"/>
+<edge source="AMD" target="NVDA"/>
+<edge source="AMD" target="ON"/>
+<edge source="AMD" target="QCOM"/>
+<edge source="AMD" target="SANM"/>
+<edge source="AMD" target="TXN"/>
+<edge source="AMGN" target="BIIB"/>
+<edge source="AMGN" target="BMY"/>
+<edge source="AMGN" target="GILD"/>
+<edge source="AMGN" target="JNJ"/>
+<edge source="AMGN" target="LLY"/>
+<edge source="AMGN" target="MRK"/>
+<edge source="AMGN" target="PFE"/>
+<edge source="AMGN" target="REGN"/>
+<edge source="AMGN" target="VRTX"/>
+<edge source="AMGN" target="VTRS"/>
+<edge source="AMGN" target="ZTS"/>
+<edge source="AMP" target="AXP"/>
+<edge source="AMP" target="BX"/>
+<edge source="AMP" target="FMCC"/>
+<edge source="AMP" target="FNMA"/>
+<edge source="AMP" target="IEP"/>
+<edge source="AMP" target="JEF"/>
+<edge source="AMP" target="MMC"/>
+<edge source="AMP" target="SNEX"/>
+<edge source="AMP" target="SYF"/>
+<edge source="AMP" target="VOYA"/>
+<edge source="AMRK" target="FAST"/>
+<edge source="AMRK" target="GLP"/>
+<edge source="AMRK" target="GPC"/>
+<edge source="AMRK" target="GWW"/>
+<edge source="AMRK" target="LKQ"/>
+<edge source="AMRK" target="WCC"/>
+<edge source="AMRK" target="WSO"/>
+<edge source="AMT" target="CBRE"/>
+<edge source="AMT" target="EQIX"/>
+<edge source="AMT" target="JLL"/>
+<edge source="AMT" target="PLD"/>
+<edge source="AMZN" target="BKNG"/>
+<edge source="AMZN" target="CHWY"/>
+<edge source="AMZN" target="CPNG"/>
+<edge source="AMZN" target="DASH"/>
+<edge source="AMZN" target="EBAY"/>
+<edge source="AMZN" target="EXPE"/>
+<edge source="AMZN" target="GOOGL"/>
+<edge source="AMZN" target="META"/>
+<edge source="AMZN" target="UBER"/>
+<edge source="AMZN" target="W"/>
+<edge source="AN" target="CAR"/>
+<edge source="AN" target="CVNA"/>
+<edge source="AN" target="GPI"/>
+<edge source="AN" target="HTZ"/>
+<edge source="AN" target="KMX"/>
+<edge source="AN" target="LAD"/>
+<edge source="AN" target="PAG"/>
+<edge source="AN" target="RUSHB"/>
+<edge source="AN" target="SAH"/>
+<edge source="ANDE" target="CTVA"/>
+<edge source="ANDE" target="INGR"/>
+<edge source="ANDE" target="SEB"/>
+<edge source="ANDE" target="TSN"/>
+<edge source="APA" target="COP"/>
+<edge source="APA" target="DVN"/>
+<edge source="APA" target="EOG"/>
+<edge source="APA" target="FANG"/>
+<edge source="APA" target="FCX"/>
+<edge source="APA" target="NEM"/>
+<edge source="APA" target="OVV"/>
+<edge source="APA" target="OXY"/>
+<edge source="APD" target="CE"/>
+<edge source="APD" target="DD"/>
+<edge source="APD" target="DOW"/>
+<edge source="APD" target="ECL"/>
+<edge source="APD" target="EMN"/>
+<edge source="APD" target="IFF"/>
+<edge source="APD" target="MMM"/>
+<edge source="APD" target="MOS"/>
+<edge source="APD" target="PPG"/>
+<edge source="APD" target="RPM"/>
+<edge source="APD" target="SHW"/>
+<edge source="APD" target="WLK"/>
+<edge source="APH" target="CSCO"/>
+<edge source="APH" target="MSI"/>
+<edge source="APO" target="BEN"/>
+<edge source="APO" target="BLK"/>
+<edge source="APO" target="IBKR"/>
+<edge source="APO" target="ICE"/>
+<edge source="APO" target="KKR"/>
+<edge source="APO" target="LPLA"/>
+<edge source="APO" target="RJF"/>
+<edge source="APO" target="SCHW"/>
+<edge source="ARKO" target="AZO"/>
+<edge source="ARKO" target="BBWI"/>
+<edge source="ARKO" target="BBY"/>
+<edge source="ARKO" target="CASY"/>
+<edge source="ARKO" target="DG"/>
+<edge source="ARKO" target="DKS"/>
+<edge source="ARKO" target="DLTR"/>
+<edge source="ARKO" target="HD"/>
+<edge source="ARKO" target="LOW"/>
+<edge source="ARKO" target="MUSA"/>
+<edge source="ARKO" target="ODP"/>
+<edge source="ARKO" target="ORLY"/>
+<edge source="ARKO" target="TSCO"/>
+<edge source="ARKO" target="ULTA"/>
+<edge source="ARKO" target="WSM"/>
+<edge source="ARMK" target="CTAS"/>
+<edge source="ARMK" target="J"/>
+<edge source="ARW" target="AVT"/>
+<edge source="ARW" target="SNX"/>
+<edge source="ATUS" target="CHTR"/>
+<edge source="ATUS" target="CMCSA"/>
+<edge source="ATUS" target="LUMN"/>
+<edge source="ATUS" target="SATS"/>
+<edge source="ATUS" target="T"/>
+<edge source="ATUS" target="VZ"/>
+<edge source="AVGO" target="INTC"/>
+<edge source="AVGO" target="JBL"/>
+<edge source="AVGO" target="KLAC"/>
+<edge source="AVGO" target="LRCX"/>
+<edge source="AVGO" target="MCHP"/>
+<edge source="AVGO" target="MU"/>
+<edge source="AVGO" target="NVDA"/>
+<edge source="AVGO" target="ON"/>
+<edge source="AVGO" target="QCOM"/>
+<edge source="AVGO" target="SANM"/>
+<edge source="AVGO" target="TXN"/>
+<edge source="AVT" target="SNX"/>
+<edge source="AVY" target="BALL"/>
+<edge source="AVY" target="CCK"/>
+<edge source="AVY" target="GPK"/>
+<edge source="AVY" target="IP"/>
+<edge source="AVY" target="OI"/>
+<edge source="AVY" target="PKG"/>
+<edge source="AXP" target="BX"/>
+<edge source="AXP" target="FMCC"/>
+<edge source="AXP" target="FNMA"/>
+<edge source="AXP" target="IEP"/>
+<edge source="AXP" target="JEF"/>
+<edge source="AXP" target="MMC"/>
+<edge source="AXP" target="SNEX"/>
+<edge source="AXP" target="SYF"/>
+<edge source="AXP" target="VOYA"/>
+<edge source="AZO" target="BBWI"/>
+<edge source="AZO" target="BBY"/>
+<edge source="AZO" target="CASY"/>
+<edge source="AZO" target="DG"/>
+<edge source="AZO" target="DKS"/>
+<edge source="AZO" target="DLTR"/>
+<edge source="AZO" target="HD"/>
+<edge source="AZO" target="LOW"/>
+<edge source="AZO" target="MUSA"/>
+<edge source="AZO" target="ODP"/>
+<edge source="AZO" target="ORLY"/>
+<edge source="AZO" target="TSCO"/>
+<edge source="AZO" target="ULTA"/>
+<edge source="AZO" target="WSM"/>
+<edge source="BA" target="GD"/>
+<edge source="BA" target="HII"/>
+<edge source="BA" target="LHX"/>
+<edge source="BA" target="LMT"/>
+<edge source="BA" target="NOC"/>
+<edge source="BA" target="RTX"/>
+<edge source="BA" target="TXT"/>
+<edge source="BAC" target="BK"/>
+<edge source="BAC" target="C"/>
+<edge source="BAC" target="CFG"/>
+<edge source="BAC" target="COF"/>
+<edge source="BAC" target="FCNCA"/>
+<edge source="BAC" target="FITB"/>
+<edge source="BAC" target="GS"/>
+<edge source="BAC" target="HBAN"/>
+<edge source="BAC" target="JPM"/>
+<edge source="BAC" target="KEY"/>
+<edge source="BAC" target="MS"/>
+<edge source="BAC" target="MTB"/>
+<edge source="BAC" target="NTRS"/>
+<edge source="BAC" target="PNC"/>
+<edge source="BAC" target="RF"/>
+<edge source="BAC" target="STT"/>
+<edge source="BAC" target="TFC"/>
+<edge source="BAC" target="USB"/>
+<edge source="BAC" target="WFC"/>
+<edge source="BAH" target="CDW"/>
+<edge source="BAH" target="CNXC"/>
+<edge source="BAH" target="CTSH"/>
+<edge source="BAH" target="DXC"/>
+<edge source="BAH" target="IBM"/>
+<edge source="BAH" target="KD"/>
+<edge source="BAH" target="LDOS"/>
+<edge source="BAH" target="NSIT"/>
+<edge source="BAH" target="SAIC"/>
+<edge source="BALL" target="CCK"/>
+<edge source="BALL" target="GPK"/>
+<edge source="BALL" target="IP"/>
+<edge source="BALL" target="OI"/>
+<edge source="BALL" target="PKG"/>
+<edge source="BAX" target="BDX"/>
+<edge source="BAX" target="BSX"/>
+<edge source="BAX" target="DHR"/>
+<edge source="BAX" target="GEHC"/>
+<edge source="BAX" target="ISRG"/>
+<edge source="BAX" target="SYK"/>
+<edge source="BAX" target="ZBH"/>
+<edge source="BBWI" target="BBY"/>
+<edge source="BBWI" target="CASY"/>
+<edge source="BBWI" target="DG"/>
+<edge source="BBWI" target="DKS"/>
+<edge source="BBWI" target="DLTR"/>
+<edge source="BBWI" target="HD"/>
+<edge source="BBWI" target="LOW"/>
+<edge source="BBWI" target="MUSA"/>
+<edge source="BBWI" target="ODP"/>
+<edge source="BBWI" target="ORLY"/>
+<edge source="BBWI" target="TSCO"/>
+<edge source="BBWI" target="ULTA"/>
+<edge source="BBWI" target="WSM"/>
+<edge source="BBY" target="CASY"/>
+<edge source="BBY" target="DG"/>
+<edge source="BBY" target="DKS"/>
+<edge source="BBY" target="DLTR"/>
+<edge source="BBY" target="HD"/>
+<edge source="BBY" target="LOW"/>
+<edge source="BBY" target="MUSA"/>
+<edge source="BBY" target="ODP"/>
+<edge source="BBY" target="ORLY"/>
+<edge source="BBY" target="TSCO"/>
+<edge source="BBY" target="ULTA"/>
+<edge source="BBY" target="WSM"/>
+<edge source="BDX" target="BSX"/>
+<edge source="BDX" target="DHR"/>
+<edge source="BDX" target="GEHC"/>
+<edge source="BDX" target="ISRG"/>
+<edge source="BDX" target="SYK"/>
+<edge source="BDX" target="ZBH"/>
+<edge source="BEN" target="BLK"/>
+<edge source="BEN" target="IBKR"/>
+<edge source="BEN" target="ICE"/>
+<edge source="BEN" target="KKR"/>
+<edge source="BEN" target="LPLA"/>
+<edge source="BEN" target="RJF"/>
+<edge source="BEN" target="SCHW"/>
+<edge source="BIIB" target="BMY"/>
+<edge source="BIIB" target="GILD"/>
+<edge source="BIIB" target="JNJ"/>
+<edge source="BIIB" target="LLY"/>
+<edge source="BIIB" target="MRK"/>
+<edge source="BIIB" target="PFE"/>
+<edge source="BIIB" target="REGN"/>
+<edge source="BIIB" target="VRTX"/>
+<edge source="BIIB" target="VTRS"/>
+<edge source="BIIB" target="ZTS"/>
+<edge source="BJ" target="COST"/>
+<edge source="BJ" target="KSS"/>
+<edge source="BJ" target="M"/>
+<edge source="BJ" target="TGT"/>
+<edge source="BJ" target="WMT"/>
+<edge source="BK" target="C"/>
+<edge source="BK" target="CFG"/>
+<edge source="BK" target="COF"/>
+<edge source="BK" target="FCNCA"/>
+<edge source="BK" target="FITB"/>
+<edge source="BK" target="GS"/>
+<edge source="BK" target="HBAN"/>
+<edge source="BK" target="JPM"/>
+<edge source="BK" target="KEY"/>
+<edge source="BK" target="MS"/>
+<edge source="BK" target="MTB"/>
+<edge source="BK" target="NTRS"/>
+<edge source="BK" target="PNC"/>
+<edge source="BK" target="RF"/>
+<edge source="BK" target="STT"/>
+<edge source="BK" target="TFC"/>
+<edge source="BK" target="USB"/>
+<edge source="BK" target="WFC"/>
+<edge source="BKNG" target="CHWY"/>
+<edge source="BKNG" target="CPNG"/>
+<edge source="BKNG" target="DASH"/>
+<edge source="BKNG" target="EBAY"/>
+<edge source="BKNG" target="EXPE"/>
+<edge source="BKNG" target="GOOGL"/>
+<edge source="BKNG" target="META"/>
+<edge source="BKNG" target="UBER"/>
+<edge source="BKNG" target="W"/>
+<edge source="BKR" target="HAL"/>
+<edge source="BKR" target="NOV"/>
+<edge source="BLDR" target="OC"/>
+<edge source="BLDR" target="UFPI"/>
+<edge source="BLDR" target="VMC"/>
+<edge source="BLK" target="IBKR"/>
+<edge source="BLK" target="ICE"/>
+<edge source="BLK" target="KKR"/>
+<edge source="BLK" target="LPLA"/>
+<edge source="BLK" target="RJF"/>
+<edge source="BLK" target="SCHW"/>
+<edge source="BMY" target="GILD"/>
+<edge source="BMY" target="JNJ"/>
+<edge source="BMY" target="LLY"/>
+<edge source="BMY" target="MRK"/>
+<edge source="BMY" target="PFE"/>
+<edge source="BMY" target="REGN"/>
+<edge source="BMY" target="VRTX"/>
+<edge source="BMY" target="VTRS"/>
+<edge source="BMY" target="ZTS"/>
+<edge source="BSX" target="DHR"/>
+<edge source="BSX" target="GEHC"/>
+<edge source="BSX" target="ISRG"/>
+<edge source="BSX" target="SYK"/>
+<edge source="BSX" target="ZBH"/>
+<edge source="BURL" target="LULU"/>
+<edge source="BURL" target="ROST"/>
+<edge source="BURL" target="TJX"/>
+<edge source="BWA" target="DAN"/>
+<edge source="BWA" target="F"/>
+<edge source="BWA" target="GM"/>
+<edge source="BWA" target="GT"/>
+<edge source="BWA" target="LEA"/>
+<edge source="BWA" target="PCAR"/>
+<edge source="BWA" target="THO"/>
+<edge source="BWA" target="TSLA"/>
+<edge source="BX" target="FMCC"/>
+<edge source="BX" target="FNMA"/>
+<edge source="BX" target="IEP"/>
+<edge source="BX" target="JEF"/>
+<edge source="BX" target="MMC"/>
+<edge source="BX" target="SNEX"/>
+<edge source="BX" target="SYF"/>
+<edge source="BX" target="VOYA"/>
+<edge source="C" target="CFG"/>
+<edge source="C" target="COF"/>
+<edge source="C" target="FCNCA"/>
+<edge source="C" target="FITB"/>
+<edge source="C" target="GS"/>
+<edge source="C" target="HBAN"/>
+<edge source="C" target="JPM"/>
+<edge source="C" target="KEY"/>
+<edge source="C" target="MS"/>
+<edge source="C" target="MTB"/>
+<edge source="C" target="NTRS"/>
+<edge source="C" target="PNC"/>
+<edge source="C" target="RF"/>
+<edge source="C" target="STT"/>
+<edge source="C" target="TFC"/>
+<edge source="C" target="USB"/>
+<edge source="C" target="WFC"/>
+<edge source="CAG" target="CPB"/>
+<edge source="CAG" target="GIS"/>
+<edge source="CAG" target="HRL"/>
+<edge source="CAG" target="HSY"/>
+<edge source="CAG" target="K"/>
+<edge source="CAG" target="KHC"/>
+<edge source="CAG" target="MDLZ"/>
+<edge source="CAG" target="PEP"/>
+<edge source="CAG" target="SJM"/>
+<edge source="CAH" target="COR"/>
+<edge source="CAH" target="HSIC"/>
+<edge source="CAH" target="MCK"/>
+<edge source="CAH" target="OMI"/>
+<edge source="CAR" target="CVNA"/>
+<edge source="CAR" target="GPI"/>
+<edge source="CAR" target="HTZ"/>
+<edge source="CAR" target="KMX"/>
+<edge source="CAR" target="LAD"/>
+<edge source="CAR" target="PAG"/>
+<edge source="CAR" target="RUSHB"/>
+<edge source="CAR" target="SAH"/>
+<edge source="CARR" target="CMI"/>
+<edge source="CARR" target="DOV"/>
+<edge source="CARR" target="EMR"/>
+<edge source="CARR" target="GE"/>
+<edge source="CARR" target="HON"/>
+<edge source="CARR" target="ITW"/>
+<edge source="CARR" target="OTIS"/>
+<edge source="CARR" target="PH"/>
+<edge source="CARR" target="WAB"/>
+<edge source="CARR" target="XYL"/>
+<edge source="CASY" target="DG"/>
+<edge source="CASY" target="DKS"/>
+<edge source="CASY" target="DLTR"/>
+<edge source="CASY" target="HD"/>
+<edge source="CASY" target="LOW"/>
+<edge source="CASY" target="MUSA"/>
+<edge source="CASY" target="ODP"/>
+<edge source="CASY" target="ORLY"/>
+<edge source="CASY" target="TSCO"/>
+<edge source="CASY" target="ULTA"/>
+<edge source="CASY" target="WSM"/>
+<edge source="CAT" target="DE"/>
+<edge source="CAT" target="OSK"/>
+<edge source="CBRE" target="EQIX"/>
+<edge source="CBRE" target="JLL"/>
+<edge source="CBRE" target="PLD"/>
+<edge source="CCK" target="GPK"/>
+<edge source="CCK" target="IP"/>
+<edge source="CCK" target="OI"/>
+<edge source="CCK" target="PKG"/>
+<edge source="CDW" target="CNXC"/>
+<edge source="CDW" target="CTSH"/>
+<edge source="CDW" target="DXC"/>
+<edge source="CDW" target="IBM"/>
+<edge source="CDW" target="KD"/>
+<edge source="CDW" target="LDOS"/>
+<edge source="CDW" target="NSIT"/>
+<edge source="CDW" target="SAIC"/>
+<edge source="CE" target="DD"/>
+<edge source="CE" target="DOW"/>
+<edge source="CE" target="ECL"/>
+<edge source="CE" target="EMN"/>
+<edge source="CE" target="IFF"/>
+<edge source="CE" target="MMM"/>
+<edge source="CE" target="MOS"/>
+<edge source="CE" target="PPG"/>
+<edge source="CE" target="RPM"/>
+<edge source="CE" target="SHW"/>
+<edge source="CE" target="WLK"/>
+<edge source="CEG" target="NRG"/>
+<edge source="CEG" target="VST"/>
+<edge source="CEG" target="WKC"/>
+<edge source="CFG" target="COF"/>
+<edge source="CFG" target="FCNCA"/>
+<edge source="CFG" target="FITB"/>
+<edge source="CFG" target="GS"/>
+<edge source="CFG" target="HBAN"/>
+<edge source="CFG" target="JPM"/>
+<edge source="CFG" target="KEY"/>
+<edge source="CFG" target="MS"/>
+<edge source="CFG" target="MTB"/>
+<edge source="CFG" target="NTRS"/>
+<edge source="CFG" target="PNC"/>
+<edge source="CFG" target="RF"/>
+<edge source="CFG" target="STT"/>
+<edge source="CFG" target="TFC"/>
+<edge source="CFG" target="USB"/>
+<edge source="CFG" target="WFC"/>
+<edge source="CHRW" target="EXPD"/>
+<edge source="CHRW" target="GXO"/>
+<edge source="CHRW" target="R"/>
+<edge source="CHRW" target="XPO"/>
+<edge source="CHTR" target="CMCSA"/>
+<edge source="CHTR" target="LUMN"/>
+<edge source="CHTR" target="SATS"/>
+<edge source="CHTR" target="T"/>
+<edge source="CHTR" target="VZ"/>
+<edge source="CHWY" target="CPNG"/>
+<edge source="CHWY" target="DASH"/>
+<edge source="CHWY" target="EBAY"/>
+<edge source="CHWY" target="EXPE"/>
+<edge source="CHWY" target="GOOGL"/>
+<edge source="CHWY" target="META"/>
+<edge source="CHWY" target="UBER"/>
+<edge source="CHWY" target="W"/>
+<edge source="CI" target="CVS"/>
+<edge source="CI" target="DGX"/>
+<edge source="CI" target="IQV"/>
+<edge source="CI" target="LH"/>
+<edge source="CINF" target="FNF"/>
+<edge source="CINF" target="HIG"/>
+<edge source="CINF" target="L"/>
+<edge source="CINF" target="MKL"/>
+<edge source="CINF" target="ORI"/>
+<edge source="CINF" target="PGR"/>
+<edge source="CINF" target="TRV"/>
+<edge source="CINF" target="WRB"/>
+<edge source="CL" target="CLX"/>
+<edge source="CL" target="EL"/>
+<edge source="CL" target="KMB"/>
+<edge source="CL" target="PG"/>
+<edge source="CLF" target="CMC"/>
+<edge source="CLF" target="NUE"/>
+<edge source="CLF" target="RS"/>
+<edge source="CLF" target="STLD"/>
+<edge source="CLX" target="EL"/>
+<edge source="CLX" target="KMB"/>
+<edge source="CLX" target="PG"/>
+<edge source="CMC" target="NUE"/>
+<edge source="CMC" target="RS"/>
+<edge source="CMC" target="STLD"/>
+<edge source="CMCSA" target="LUMN"/>
+<edge source="CMCSA" target="SATS"/>
+<edge source="CMCSA" target="T"/>
+<edge source="CMCSA" target="VZ"/>
+<edge source="CMG" target="DRI"/>
+<edge source="CMG" target="MCD"/>
+<edge source="CMG" target="SBUX"/>
+<edge source="CMG" target="YUMC"/>
+<edge source="CMI" target="DOV"/>
+<edge source="CMI" target="EMR"/>
+<edge source="CMI" target="GE"/>
+<edge source="CMI" target="HON"/>
+<edge source="CMI" target="ITW"/>
+<edge source="CMI" target="OTIS"/>
+<edge source="CMI" target="PH"/>
+<edge source="CMI" target="WAB"/>
+<edge source="CMI" target="XYL"/>
+<edge source="CMS" target="CNP"/>
+<edge source="CMS" target="D"/>
+<edge source="CMS" target="DTE"/>
+<edge source="CMS" target="DUK"/>
+<edge source="CMS" target="ED"/>
+<edge source="CMS" target="EIX"/>
+<edge source="CMS" target="ES"/>
+<edge source="CMS" target="ETR"/>
+<edge source="CMS" target="EXC"/>
+<edge source="CMS" target="FE"/>
+<edge source="CMS" target="NEE"/>
+<edge source="CMS" target="PCG"/>
+<edge source="CMS" target="PEG"/>
+<edge source="CMS" target="PPL"/>
+<edge source="CMS" target="SO"/>
+<edge source="CMS" target="SRE"/>
+<edge source="CMS" target="UGI"/>
+<edge source="CMS" target="WEC"/>
+<edge source="CMS" target="XEL"/>
+<edge source="CNC" target="ELV"/>
+<edge source="CNC" target="HUM"/>
+<edge source="CNC" target="MOH"/>
+<edge source="CNC" target="UNH"/>
+<edge source="CNP" target="D"/>
+<edge source="CNP" target="DTE"/>
+<edge source="CNP" target="DUK"/>
+<edge source="CNP" target="ED"/>
+<edge source="CNP" target="EIX"/>
+<edge source="CNP" target="ES"/>
+<edge source="CNP" target="ETR"/>
+<edge source="CNP" target="EXC"/>
+<edge source="CNP" target="FE"/>
+<edge source="CNP" target="NEE"/>
+<edge source="CNP" target="PCG"/>
+<edge source="CNP" target="PEG"/>
+<edge source="CNP" target="PPL"/>
+<edge source="CNP" target="SO"/>
+<edge source="CNP" target="SRE"/>
+<edge source="CNP" target="UGI"/>
+<edge source="CNP" target="WEC"/>
+<edge source="CNP" target="XEL"/>
+<edge source="CNXC" target="CTSH"/>
+<edge source="CNXC" target="DXC"/>
+<edge source="CNXC" target="IBM"/>
+<edge source="CNXC" target="KD"/>
+<edge source="CNXC" target="LDOS"/>
+<edge source="CNXC" target="NSIT"/>
+<edge source="CNXC" target="SAIC"/>
+<edge source="COF" target="FCNCA"/>
+<edge source="COF" target="FITB"/>
+<edge source="COF" target="GS"/>
+<edge source="COF" target="HBAN"/>
+<edge source="COF" target="JPM"/>
+<edge source="COF" target="KEY"/>
+<edge source="COF" target="MS"/>
+<edge source="COF" target="MTB"/>
+<edge source="COF" target="NTRS"/>
+<edge source="COF" target="PNC"/>
+<edge source="COF" target="RF"/>
+<edge source="COF" target="STT"/>
+<edge source="COF" target="TFC"/>
+<edge source="COF" target="USB"/>
+<edge source="COF" target="WFC"/>
+<edge source="COP" target="DVN"/>
+<edge source="COP" target="EOG"/>
+<edge source="COP" target="FANG"/>
+<edge source="COP" target="FCX"/>
+<edge source="COP" target="NEM"/>
+<edge source="COP" target="OVV"/>
+<edge source="COP" target="OXY"/>
+<edge source="COR" target="HSIC"/>
+<edge source="COR" target="MCK"/>
+<edge source="COR" target="OMI"/>
+<edge source="COST" target="KSS"/>
+<edge source="COST" target="M"/>
+<edge source="COST" target="TGT"/>
+<edge source="COST" target="WMT"/>
+<edge source="CPB" target="GIS"/>
+<edge source="CPB" target="HRL"/>
+<edge source="CPB" target="HSY"/>
+<edge source="CPB" target="K"/>
+<edge source="CPB" target="KHC"/>
+<edge source="CPB" target="MDLZ"/>
+<edge source="CPB" target="PEP"/>
+<edge source="CPB" target="SJM"/>
+<edge source="CPNG" target="DASH"/>
+<edge source="CPNG" target="EBAY"/>
+<edge source="CPNG" target="EXPE"/>
+<edge source="CPNG" target="GOOGL"/>
+<edge source="CPNG" target="META"/>
+<edge source="CPNG" target="UBER"/>
+<edge source="CPNG" target="W"/>
+<edge source="CRM" target="INTU"/>
+<edge source="CRM" target="MSFT"/>
+<edge source="CRM" target="NOW"/>
+<edge source="CRM" target="ORCL"/>
+<edge source="CRM" target="WDAY"/>
+<edge source="CSCO" target="MSI"/>
+<edge source="CSX" target="NSC"/>
+<edge source="CSX" target="UNP"/>
+<edge source="CTAS" target="J"/>
+<edge source="CTSH" target="DXC"/>
+<edge source="CTSH" target="IBM"/>
+<edge source="CTSH" target="KD"/>
+<edge source="CTSH" target="LDOS"/>
+<edge source="CTSH" target="NSIT"/>
+<edge source="CTSH" target="SAIC"/>
+<edge source="CTVA" target="INGR"/>
+<edge source="CTVA" target="SEB"/>
+<edge source="CTVA" target="TSN"/>
+<edge source="CVNA" target="GPI"/>
+<edge source="CVNA" target="HTZ"/>
+<edge source="CVNA" target="KMX"/>
+<edge source="CVNA" target="LAD"/>
+<edge source="CVNA" target="PAG"/>
+<edge source="CVNA" target="RUSHB"/>
+<edge source="CVNA" target="SAH"/>
+<edge source="CVS" target="DGX"/>
+<edge source="CVS" target="IQV"/>
+<edge source="CVS" target="LH"/>
+<edge source="CVX" target="DINO"/>
+<edge source="CVX" target="DK"/>
+<edge source="CVX" target="MPC"/>
+<edge source="CVX" target="PARR"/>
+<edge source="CVX" target="PBF"/>
+<edge source="CVX" target="PSX"/>
+<edge source="CVX" target="VLO"/>
+<edge source="CVX" target="XOM"/>
+<edge source="CYH" target="DVA"/>
+<edge source="CYH" target="HCA"/>
+<edge source="CYH" target="THC"/>
+<edge source="CYH" target="UHS"/>
+<edge source="CZR" target="HLT"/>
+<edge source="CZR" target="LVS"/>
+<edge source="CZR" target="MAR"/>
+<edge source="CZR" target="MGM"/>
+<edge source="D" target="DTE"/>
+<edge source="D" target="DUK"/>
+<edge source="D" target="ED"/>
+<edge source="D" target="EIX"/>
+<edge source="D" target="ES"/>
+<edge source="D" target="ETR"/>
+<edge source="D" target="EXC"/>
+<edge source="D" target="FE"/>
+<edge source="D" target="NEE"/>
+<edge source="D" target="PCG"/>
+<edge source="D" target="PEG"/>
+<edge source="D" target="PPL"/>
+<edge source="D" target="SO"/>
+<edge source="D" target="SRE"/>
+<edge source="D" target="UGI"/>
+<edge source="D" target="WEC"/>
+<edge source="D" target="XEL"/>
+<edge source="DAL" target="JBLU"/>
+<edge source="DAL" target="LUV"/>
+<edge source="DAL" target="UAL"/>
+<edge source="DAN" target="F"/>
+<edge source="DAN" target="GM"/>
+<edge source="DAN" target="GT"/>
+<edge source="DAN" target="LEA"/>
+<edge source="DAN" target="PCAR"/>
+<edge source="DAN" target="THO"/>
+<edge source="DAN" target="TSLA"/>
+<edge source="DASH" target="EBAY"/>
+<edge source="DASH" target="EXPE"/>
+<edge source="DASH" target="GOOGL"/>
+<edge source="DASH" target="META"/>
+<edge source="DASH" target="UBER"/>
+<edge source="DASH" target="W"/>
+<edge source="DD" target="DOW"/>
+<edge source="DD" target="ECL"/>
+<edge source="DD" target="EMN"/>
+<edge source="DD" target="IFF"/>
+<edge source="DD" target="MMM"/>
+<edge source="DD" target="MOS"/>
+<edge source="DD" target="PPG"/>
+<edge source="DD" target="RPM"/>
+<edge source="DD" target="SHW"/>
+<edge source="DD" target="WLK"/>
+<edge source="DE" target="OSK"/>
+<edge source="DELL" target="HPE"/>
+<edge source="DELL" target="HPQ"/>
+<edge source="DELL" target="SMCI"/>
+<edge source="DELL" target="WDC"/>
+<edge source="DG" target="DKS"/>
+<edge source="DG" target="DLTR"/>
+<edge source="DG" target="HD"/>
+<edge source="DG" target="LOW"/>
+<edge source="DG" target="MUSA"/>
+<edge source="DG" target="ODP"/>
+<edge source="DG" target="ORLY"/>
+<edge source="DG" target="TSCO"/>
+<edge source="DG" target="ULTA"/>
+<edge source="DG" target="WSM"/>
+<edge source="DGX" target="IQV"/>
+<edge source="DGX" target="LH"/>
+<edge source="DHI" target="LEN"/>
+<edge source="DHI" target="NVR"/>
+<edge source="DHI" target="PHM"/>
+<edge source="DHI" target="TMHC"/>
+<edge source="DHI" target="TOL"/>
+<edge source="DHR" target="GEHC"/>
+<edge source="DHR" target="ISRG"/>
+<edge source="DHR" target="SYK"/>
+<edge source="DHR" target="ZBH"/>
+<edge source="DINO" target="DK"/>
+<edge source="DINO" target="MPC"/>
+<edge source="DINO" target="PARR"/>
+<edge source="DINO" target="PBF"/>
+<edge source="DINO" target="PSX"/>
+<edge source="DINO" target="VLO"/>
+<edge source="DINO" target="XOM"/>
+<edge source="DIS" target="EA"/>
+<edge source="DIS" target="FOXA"/>
+<edge source="DIS" target="LYV"/>
+<edge source="DIS" target="NFLX"/>
+<edge source="DIS" target="WBD"/>
+<edge source="DK" target="MPC"/>
+<edge source="DK" target="PARR"/>
+<edge source="DK" target="PBF"/>
+<edge source="DK" target="PSX"/>
+<edge source="DK" target="VLO"/>
+<edge source="DK" target="XOM"/>
+<edge source="DKS" target="DLTR"/>
+<edge source="DKS" target="HD"/>
+<edge source="DKS" target="LOW"/>
+<edge source="DKS" target="MUSA"/>
+<edge source="DKS" target="ODP"/>
+<edge source="DKS" target="ORLY"/>
+<edge source="DKS" target="TSCO"/>
+<edge source="DKS" target="ULTA"/>
+<edge source="DKS" target="WSM"/>
+<edge source="DLTR" target="HD"/>
+<edge source="DLTR" target="LOW"/>
+<edge source="DLTR" target="MUSA"/>
+<edge source="DLTR" target="ODP"/>
+<edge source="DLTR" target="ORLY"/>
+<edge source="DLTR" target="TSCO"/>
+<edge source="DLTR" target="ULTA"/>
+<edge source="DLTR" target="WSM"/>
+<edge source="DOV" target="EMR"/>
+<edge source="DOV" target="GE"/>
+<edge source="DOV" target="HON"/>
+<edge source="DOV" target="ITW"/>
+<edge source="DOV" target="OTIS"/>
+<edge source="DOV" target="PH"/>
+<edge source="DOV" target="WAB"/>
+<edge source="DOV" target="XYL"/>
+<edge source="DOW" target="ECL"/>
+<edge source="DOW" target="EMN"/>
+<edge source="DOW" target="IFF"/>
+<edge source="DOW" target="MMM"/>
+<edge source="DOW" target="MOS"/>
+<edge source="DOW" target="PPG"/>
+<edge source="DOW" target="RPM"/>
+<edge source="DOW" target="SHW"/>
+<edge source="DOW" target="WLK"/>
+<edge source="DRI" target="MCD"/>
+<edge source="DRI" target="SBUX"/>
+<edge source="DRI" target="YUMC"/>
+<edge source="DTE" target="DUK"/>
+<edge source="DTE" target="ED"/>
+<edge source="DTE" target="EIX"/>
+<edge source="DTE" target="ES"/>
+<edge source="DTE" target="ETR"/>
+<edge source="DTE" target="EXC"/>
+<edge source="DTE" target="FE"/>
+<edge source="DTE" target="NEE"/>
+<edge source="DTE" target="PCG"/>
+<edge source="DTE" target="PEG"/>
+<edge source="DTE" target="PPL"/>
+<edge source="DTE" target="SO"/>
+<edge source="DTE" target="SRE"/>
+<edge source="DTE" target="UGI"/>
+<edge source="DTE" target="WEC"/>
+<edge source="DTE" target="XEL"/>
+<edge source="DUK" target="ED"/>
+<edge source="DUK" target="EIX"/>
+<edge source="DUK" target="ES"/>
+<edge source="DUK" target="ETR"/>
+<edge source="DUK" target="EXC"/>
+<edge source="DUK" target="FE"/>
+<edge source="DUK" target="NEE"/>
+<edge source="DUK" target="PCG"/>
+<edge source="DUK" target="PEG"/>
+<edge source="DUK" target="PPL"/>
+<edge source="DUK" target="SO"/>
+<edge source="DUK" target="SRE"/>
+<edge source="DUK" target="UGI"/>
+<edge source="DUK" target="WEC"/>
+<edge source="DUK" target="XEL"/>
+<edge source="DVA" target="HCA"/>
+<edge source="DVA" target="THC"/>
+<edge source="DVA" target="UHS"/>
+<edge source="DVN" target="EOG"/>
+<edge source="DVN" target="FANG"/>
+<edge source="DVN" target="FCX"/>
+<edge source="DVN" target="NEM"/>
+<edge source="DVN" target="OVV"/>
+<edge source="DVN" target="OXY"/>
+<edge source="DXC" target="IBM"/>
+<edge source="DXC" target="KD"/>
+<edge source="DXC" target="LDOS"/>
+<edge source="DXC" target="NSIT"/>
+<edge source="DXC" target="SAIC"/>
+<edge source="EA" target="FOXA"/>
+<edge source="EA" target="LYV"/>
+<edge source="EA" target="NFLX"/>
+<edge source="EA" target="WBD"/>
+<edge source="EBAY" target="EXPE"/>
+<edge source="EBAY" target="GOOGL"/>
+<edge source="EBAY" target="META"/>
+<edge source="EBAY" target="UBER"/>
+<edge source="EBAY" target="W"/>
+<edge source="ECL" target="EMN"/>
+<edge source="ECL" target="IFF"/>
+<edge source="ECL" target="MMM"/>
+<edge source="ECL" target="MOS"/>
+<edge source="ECL" target="PPG"/>
+<edge source="ECL" target="RPM"/>
+<edge source="ECL" target="SHW"/>
+<edge source="ECL" target="WLK"/>
+<edge source="ED" target="EIX"/>
+<edge source="ED" target="ES"/>
+<edge source="ED" target="ETR"/>
+<edge source="ED" target="EXC"/>
+<edge source="ED" target="FE"/>
+<edge source="ED" target="NEE"/>
+<edge source="ED" target="PCG"/>
+<edge source="ED" target="PEG"/>
+<edge source="ED" target="PPL"/>
+<edge source="ED" target="SO"/>
+<edge source="ED" target="SRE"/>
+<edge source="ED" target="UGI"/>
+<edge source="ED" target="WEC"/>
+<edge source="ED" target="XEL"/>
+<edge source="EIX" target="ES"/>
+<edge source="EIX" target="ETR"/>
+<edge source="EIX" target="EXC"/>
+<edge source="EIX" target="FE"/>
+<edge source="EIX" target="NEE"/>
+<edge source="EIX" target="PCG"/>
+<edge source="EIX" target="PEG"/>
+<edge source="EIX" target="PPL"/>
+<edge source="EIX" target="SO"/>
+<edge source="EIX" target="SRE"/>
+<edge source="EIX" target="UGI"/>
+<edge source="EIX" target="WEC"/>
+<edge source="EIX" target="XEL"/>
+<edge source="EL" target="KMB"/>
+<edge source="EL" target="PG"/>
+<edge source="ELV" target="HUM"/>
+<edge source="ELV" target="MOH"/>
+<edge source="ELV" target="UNH"/>
+<edge source="EME" target="FLR"/>
+<edge source="EME" target="MTZ"/>
+<edge source="EME" target="PWR"/>
+<edge source="EMN" target="IFF"/>
+<edge source="EMN" target="MMM"/>
+<edge source="EMN" target="MOS"/>
+<edge source="EMN" target="PPG"/>
+<edge source="EMN" target="RPM"/>
+<edge source="EMN" target="SHW"/>
+<edge source="EMN" target="WLK"/>
+<edge source="EMR" target="GE"/>
+<edge source="EMR" target="HON"/>
+<edge source="EMR" target="ITW"/>
+<edge source="EMR" target="OTIS"/>
+<edge source="EMR" target="PH"/>
+<edge source="EMR" target="WAB"/>
+<edge source="EMR" target="XYL"/>
+<edge source="EOG" target="FANG"/>
+<edge source="EOG" target="FCX"/>
+<edge source="EOG" target="NEM"/>
+<edge source="EOG" target="OVV"/>
+<edge source="EOG" target="OXY"/>
+<edge source="EPD" target="ET"/>
+<edge source="EPD" target="KMI"/>
+<edge source="EPD" target="LNG"/>
+<edge source="EPD" target="NGL"/>
+<edge source="EPD" target="OKE"/>
+<edge source="EPD" target="PAGP"/>
+<edge source="EPD" target="TRGP"/>
+<edge source="EPD" target="WMB"/>
+<edge source="EQH" target="GNW"/>
+<edge source="EQH" target="LNC"/>
+<edge source="EQH" target="MET"/>
+<edge source="EQH" target="PFG"/>
+<edge source="EQH" target="PRU"/>
+<edge source="EQH" target="RGA"/>
+<edge source="EQH" target="UNM"/>
+<edge source="EQIX" target="JLL"/>
+<edge source="EQIX" target="PLD"/>
+<edge source="ES" target="ETR"/>
+<edge source="ES" target="EXC"/>
+<edge source="ES" target="FE"/>
+<edge source="ES" target="NEE"/>
+<edge source="ES" target="PCG"/>
+<edge source="ES" target="PEG"/>
+<edge source="ES" target="PPL"/>
+<edge source="ES" target="SO"/>
+<edge source="ES" target="SRE"/>
+<edge source="ES" target="UGI"/>
+<edge source="ES" target="WEC"/>
+<edge source="ES" target="XEL"/>
+<edge source="ET" target="KMI"/>
+<edge source="ET" target="LNG"/>
+<edge source="ET" target="NGL"/>
+<edge source="ET" target="OKE"/>
+<edge source="ET" target="PAGP"/>
+<edge source="ET" target="TRGP"/>
+<edge source="ET" target="WMB"/>
+<edge source="ETR" target="EXC"/>
+<edge source="ETR" target="FE"/>
+<edge source="ETR" target="NEE"/>
+<edge source="ETR" target="PCG"/>
+<edge source="ETR" target="PEG"/>
+<edge source="ETR" target="PPL"/>
+<edge source="ETR" target="SO"/>
+<edge source="ETR" target="SRE"/>
+<edge source="ETR" target="UGI"/>
+<edge source="ETR" target="WEC"/>
+<edge source="ETR" target="XEL"/>
+<edge source="EXC" target="FE"/>
+<edge source="EXC" target="NEE"/>
+<edge source="EXC" target="PCG"/>
+<edge source="EXC" target="PEG"/>
+<edge source="EXC" target="PPL"/>
+<edge source="EXC" target="SO"/>
+<edge source="EXC" target="SRE"/>
+<edge source="EXC" target="UGI"/>
+<edge source="EXC" target="WEC"/>
+<edge source="EXC" target="XEL"/>
+<edge source="EXPD" target="GXO"/>
+<edge source="EXPD" target="R"/>
+<edge source="EXPD" target="XPO"/>
+<edge source="EXPE" target="GOOGL"/>
+<edge source="EXPE" target="META"/>
+<edge source="EXPE" target="UBER"/>
+<edge source="EXPE" target="W"/>
+<edge source="F" target="GM"/>
+<edge source="F" target="GT"/>
+<edge source="F" target="LEA"/>
+<edge source="F" target="PCAR"/>
+<edge source="F" target="THO"/>
+<edge source="F" target="TSLA"/>
+<edge source="FANG" target="FCX"/>
+<edge source="FANG" target="NEM"/>
+<edge source="FANG" target="OVV"/>
+<edge source="FANG" target="OXY"/>
+<edge source="FAST" target="GLP"/>
+<edge source="FAST" target="GPC"/>
+<edge source="FAST" target="GWW"/>
+<edge source="FAST" target="LKQ"/>
+<edge source="FAST" target="WCC"/>
+<edge source="FAST" target="WSO"/>
+<edge source="FCNCA" target="FITB"/>
+<edge source="FCNCA" target="GS"/>
+<edge source="FCNCA" target="HBAN"/>
+<edge source="FCNCA" target="JPM"/>
+<edge source="FCNCA" target="KEY"/>
+<edge source="FCNCA" target="MS"/>
+<edge source="FCNCA" target="MTB"/>
+<edge source="FCNCA" target="NTRS"/>
+<edge source="FCNCA" target="PNC"/>
+<edge source="FCNCA" target="RF"/>
+<edge source="FCNCA" target="STT"/>
+<edge source="FCNCA" target="TFC"/>
+<edge source="FCNCA" target="USB"/>
+<edge source="FCNCA" target="WFC"/>
+<edge source="FCX" target="NEM"/>
+<edge source="FCX" target="OVV"/>
+<edge source="FCX" target="OXY"/>
+<edge source="FDX" target="UPS"/>
+<edge source="FE" target="NEE"/>
+<edge source="FE" target="PCG"/>
+<edge source="FE" target="PEG"/>
+<edge source="FE" target="PPL"/>
+<edge source="FE" target="SO"/>
+<edge source="FE" target="SRE"/>
+<edge source="FE" target="UGI"/>
+<edge source="FE" target="WEC"/>
+<edge source="FE" target="XEL"/>
+<edge source="FI" target="FIS"/>
+<edge source="FI" target="GPN"/>
+<edge source="FI" target="MA"/>
+<edge source="FI" target="PYPL"/>
+<edge source="FI" target="SPGI"/>
+<edge source="FI" target="V"/>
+<edge source="FIS" target="GPN"/>
+<edge source="FIS" target="MA"/>
+<edge source="FIS" target="PYPL"/>
+<edge source="FIS" target="SPGI"/>
+<edge source="FIS" target="V"/>
+<edge source="FITB" target="GS"/>
+<edge source="FITB" target="HBAN"/>
+<edge source="FITB" target="JPM"/>
+<edge source="FITB" target="KEY"/>
+<edge source="FITB" target="MS"/>
+<edge source="FITB" target="MTB"/>
+<edge source="FITB" target="NTRS"/>
+<edge source="FITB" target="PNC"/>
+<edge source="FITB" target="RF"/>
+<edge source="FITB" target="STT"/>
+<edge source="FITB" target="TFC"/>
+<edge source="FITB" target="USB"/>
+<edge source="FITB" target="WFC"/>
+<edge source="FLR" target="MTZ"/>
+<edge source="FLR" target="PWR"/>
+<edge source="FMCC" target="FNMA"/>
+<edge source="FMCC" target="IEP"/>
+<edge source="FMCC" target="JEF"/>
+<edge source="FMCC" target="MMC"/>
+<edge source="FMCC" target="SNEX"/>
+<edge source="FMCC" target="SYF"/>
+<edge source="FMCC" target="VOYA"/>
+<edge source="FNF" target="HIG"/>
+<edge source="FNF" target="L"/>
+<edge source="FNF" target="MKL"/>
+<edge source="FNF" target="ORI"/>
+<edge source="FNF" target="PGR"/>
+<edge source="FNF" target="TRV"/>
+<edge source="FNF" target="WRB"/>
+<edge source="FNMA" target="IEP"/>
+<edge source="FNMA" target="JEF"/>
+<edge source="FNMA" target="MMC"/>
+<edge source="FNMA" target="SNEX"/>
+<edge source="FNMA" target="SYF"/>
+<edge source="FNMA" target="VOYA"/>
+<edge source="FOXA" target="LYV"/>
+<edge source="FOXA" target="NFLX"/>
+<edge source="FOXA" target="WBD"/>
+<edge source="GD" target="HII"/>
+<edge source="GD" target="LHX"/>
+<edge source="GD" target="LMT"/>
+<edge source="GD" target="NOC"/>
+<edge source="GD" target="RTX"/>
+<edge source="GD" target="TXT"/>
+<edge source="GE" target="HON"/>
+<edge source="GE" target="ITW"/>
+<edge source="GE" target="OTIS"/>
+<edge source="GE" target="PH"/>
+<edge source="GE" target="WAB"/>
+<edge source="GE" target="XYL"/>
+<edge source="GEHC" target="ISRG"/>
+<edge source="GEHC" target="SYK"/>
+<edge source="GEHC" target="ZBH"/>
+<edge source="GILD" target="JNJ"/>
+<edge source="GILD" target="LLY"/>
+<edge source="GILD" target="MRK"/>
+<edge source="GILD" target="PFE"/>
+<edge source="GILD" target="REGN"/>
+<edge source="GILD" target="VRTX"/>
+<edge source="GILD" target="VTRS"/>
+<edge source="GILD" target="ZTS"/>
+<edge source="GIS" target="HRL"/>
+<edge source="GIS" target="HSY"/>
+<edge source="GIS" target="K"/>
+<edge source="GIS" target="KHC"/>
+<edge source="GIS" target="MDLZ"/>
+<edge source="GIS" target="PEP"/>
+<edge source="GIS" target="SJM"/>
+<edge source="GLP" target="GPC"/>
+<edge source="GLP" target="GWW"/>
+<edge source="GLP" target="LKQ"/>
+<edge source="GLP" target="WCC"/>
+<edge source="GLP" target="WSO"/>
+<edge source="GLW" target="ROK"/>
+<edge source="GLW" target="WHR"/>
+<edge source="GM" target="GT"/>
+<edge source="GM" target="LEA"/>
+<edge source="GM" target="PCAR"/>
+<edge source="GM" target="THO"/>
+<edge source="GM" target="TSLA"/>
+<edge source="GNW" target="LNC"/>
+<edge source="GNW" target="MET"/>
+<edge source="GNW" target="PFG"/>
+<edge source="GNW" target="PRU"/>
+<edge source="GNW" target="RGA"/>
+<edge source="GNW" target="UNM"/>
+<edge source="GOOGL" target="META"/>
+<edge source="GOOGL" target="UBER"/>
+<edge source="GOOGL" target="W"/>
+<edge source="GPC" target="GWW"/>
+<edge source="GPC" target="LKQ"/>
+<edge source="GPC" target="WCC"/>
+<edge source="GPC" target="WSO"/>
+<edge source="GPI" target="HTZ"/>
+<edge source="GPI" target="KMX"/>
+<edge source="GPI" target="LAD"/>
+<edge source="GPI" target="PAG"/>
+<edge source="GPI" target="RUSHB"/>
+<edge source="GPI" target="SAH"/>
+<edge source="GPK" target="IP"/>
+<edge source="GPK" target="OI"/>
+<edge source="GPK" target="PKG"/>
+<edge source="GPN" target="MA"/>
+<edge source="GPN" target="PYPL"/>
+<edge source="GPN" target="SPGI"/>
+<edge source="GPN" target="V"/>
+<edge source="GS" target="HBAN"/>
+<edge source="GS" target="JPM"/>
+<edge source="GS" target="KEY"/>
+<edge source="GS" target="MS"/>
+<edge source="GS" target="MTB"/>
+<edge source="GS" target="NTRS"/>
+<edge source="GS" target="PNC"/>
+<edge source="GS" target="RF"/>
+<edge source="GS" target="STT"/>
+<edge source="GS" target="TFC"/>
+<edge source="GS" target="USB"/>
+<edge source="GS" target="WFC"/>
+<edge source="GT" target="LEA"/>
+<edge source="GT" target="PCAR"/>
+<edge source="GT" target="THO"/>
+<edge source="GT" target="TSLA"/>
+<edge source="GWW" target="LKQ"/>
+<edge source="GWW" target="WCC"/>
+<edge source="GWW" target="WSO"/>
+<edge source="GXO" target="R"/>
+<edge source="GXO" target="XPO"/>
+<edge source="HAL" target="NOV"/>
+<edge source="HBAN" target="JPM"/>
+<edge source="HBAN" target="KEY"/>
+<edge source="HBAN" target="MS"/>
+<edge source="HBAN" target="MTB"/>
+<edge source="HBAN" target="NTRS"/>
+<edge source="HBAN" target="PNC"/>
+<edge source="HBAN" target="RF"/>
+<edge source="HBAN" target="STT"/>
+<edge source="HBAN" target="TFC"/>
+<edge source="HBAN" target="USB"/>
+<edge source="HBAN" target="WFC"/>
+<edge source="HCA" target="THC"/>
+<edge source="HCA" target="UHS"/>
+<edge source="HD" target="LOW"/>
+<edge source="HD" target="MUSA"/>
+<edge source="HD" target="ODP"/>
+<edge source="HD" target="ORLY"/>
+<edge source="HD" target="TSCO"/>
+<edge source="HD" target="ULTA"/>
+<edge source="HD" target="WSM"/>
+<edge source="HIG" target="L"/>
+<edge source="HIG" target="MKL"/>
+<edge source="HIG" target="ORI"/>
+<edge source="HIG" target="PGR"/>
+<edge source="HIG" target="TRV"/>
+<edge source="HIG" target="WRB"/>
+<edge source="HII" target="LHX"/>
+<edge source="HII" target="LMT"/>
+<edge source="HII" target="NOC"/>
+<edge source="HII" target="RTX"/>
+<edge source="HII" target="TXT"/>
+<edge source="HLT" target="LVS"/>
+<edge source="HLT" target="MAR"/>
+<edge source="HLT" target="MGM"/>
+<edge source="HON" target="ITW"/>
+<edge source="HON" target="OTIS"/>
+<edge source="HON" target="PH"/>
+<edge source="HON" target="WAB"/>
+<edge source="HON" target="XYL"/>
+<edge source="HPE" target="HPQ"/>
+<edge source="HPE" target="SMCI"/>
+<edge source="HPE" target="WDC"/>
+<edge source="HPQ" target="SMCI"/>
+<edge source="HPQ" target="WDC"/>
+<edge source="HRL" target="HSY"/>
+<edge source="HRL" target="K"/>
+<edge source="HRL" target="KHC"/>
+<edge source="HRL" target="MDLZ"/>
+<edge source="HRL" target="PEP"/>
+<edge source="HRL" target="SJM"/>
+<edge source="HSIC" target="MCK"/>
+<edge source="HSIC" target="OMI"/>
+<edge source="HSY" target="K"/>
+<edge source="HSY" target="KHC"/>
+<edge source="HSY" target="MDLZ"/>
+<edge source="HSY" target="PEP"/>
+<edge source="HSY" target="SJM"/>
+<edge source="HTZ" target="KMX"/>
+<edge source="HTZ" target="LAD"/>
+<edge source="HTZ" target="PAG"/>
+<edge source="HTZ" target="RUSHB"/>
+<edge source="HTZ" target="SAH"/>
+<edge source="HUM" target="MOH"/>
+<edge source="HUM" target="UNH"/>
+<edge source="IBKR" target="ICE"/>
+<edge source="IBKR" target="KKR"/>
+<edge source="IBKR" target="LPLA"/>
+<edge source="IBKR" target="RJF"/>
+<edge source="IBKR" target="SCHW"/>
+<edge source="IBM" target="KD"/>
+<edge source="IBM" target="LDOS"/>
+<edge source="IBM" target="NSIT"/>
+<edge source="IBM" target="SAIC"/>
+<edge source="ICE" target="KKR"/>
+<edge source="ICE" target="LPLA"/>
+<edge source="ICE" target="RJF"/>
+<edge source="ICE" target="SCHW"/>
+<edge source="IEP" target="JEF"/>
+<edge source="IEP" target="MMC"/>
+<edge source="IEP" target="SNEX"/>
+<edge source="IEP" target="SYF"/>
+<edge source="IEP" target="VOYA"/>
+<edge source="IFF" target="MMM"/>
+<edge source="IFF" target="MOS"/>
+<edge source="IFF" target="PPG"/>
+<edge source="IFF" target="RPM"/>
+<edge source="IFF" target="SHW"/>
+<edge source="IFF" target="WLK"/>
+<edge source="INGR" target="SEB"/>
+<edge source="INGR" target="TSN"/>
+<edge source="INTC" target="JBL"/>
+<edge source="INTC" target="KLAC"/>
+<edge source="INTC" target="LRCX"/>
+<edge source="INTC" target="MCHP"/>
+<edge source="INTC" target="MU"/>
+<edge source="INTC" target="NVDA"/>
+<edge source="INTC" target="ON"/>
+<edge source="INTC" target="QCOM"/>
+<edge source="INTC" target="SANM"/>
+<edge source="INTC" target="TXN"/>
+<edge source="INTU" target="MSFT"/>
+<edge source="INTU" target="NOW"/>
+<edge source="INTU" target="ORCL"/>
+<edge source="INTU" target="WDAY"/>
+<edge source="IP" target="OI"/>
+<edge source="IP" target="PKG"/>
+<edge source="IPG" target="OMC"/>
+<edge source="IQV" target="LH"/>
+<edge source="ISRG" target="SYK"/>
+<edge source="ISRG" target="ZBH"/>
+<edge source="ITW" target="OTIS"/>
+<edge source="ITW" target="PH"/>
+<edge source="ITW" target="WAB"/>
+<edge source="ITW" target="XYL"/>
+<edge source="JBHT" target="KNX"/>
+<edge source="JBL" target="KLAC"/>
+<edge source="JBL" target="LRCX"/>
+<edge source="JBL" target="MCHP"/>
+<edge source="JBL" target="MU"/>
+<edge source="JBL" target="NVDA"/>
+<edge source="JBL" target="ON"/>
+<edge source="JBL" target="QCOM"/>
+<edge source="JBL" target="SANM"/>
+<edge source="JBL" target="TXN"/>
+<edge source="JBLU" target="LUV"/>
+<edge source="JBLU" target="UAL"/>
+<edge source="JEF" target="MMC"/>
+<edge source="JEF" target="SNEX"/>
+<edge source="JEF" target="SYF"/>
+<edge source="JEF" target="VOYA"/>
+<edge source="JLL" target="PLD"/>
+<edge source="JNJ" target="LLY"/>
+<edge source="JNJ" target="MRK"/>
+<edge source="JNJ" target="PFE"/>
+<edge source="JNJ" target="REGN"/>
+<edge source="JNJ" target="VRTX"/>
+<edge source="JNJ" target="VTRS"/>
+<edge source="JNJ" target="ZTS"/>
+<edge source="JPM" target="KEY"/>
+<edge source="JPM" target="MS"/>
+<edge source="JPM" target="MTB"/>
+<edge source="JPM" target="NTRS"/>
+<edge source="JPM" target="PNC"/>
+<edge source="JPM" target="RF"/>
+<edge source="JPM" target="STT"/>
+<edge source="JPM" target="TFC"/>
+<edge source="JPM" target="USB"/>
+<edge source="JPM" target="WFC"/>
+<edge source="K" target="KHC"/>
+<edge source="K" target="MDLZ"/>
+<edge source="K" target="PEP"/>
+<edge source="K" target="SJM"/>
+<edge source="KD" target="LDOS"/>
+<edge source="KD" target="NSIT"/>
+<edge source="KD" target="SAIC"/>
+<edge source="KDP" target="KO"/>
+<edge source="KDP" target="MNST"/>
+<edge source="KDP" target="STZ"/>
+<edge source="KDP" target="TAP"/>
+<edge source="KEY" target="MS"/>
+<edge source="KEY" target="MTB"/>
+<edge source="KEY" target="NTRS"/>
+<edge source="KEY" target="PNC"/>
+<edge source="KEY" target="RF"/>
+<edge source="KEY" target="STT"/>
+<edge source="KEY" target="TFC"/>
+<edge source="KEY" target="USB"/>
+<edge source="KEY" target="WFC"/>
+<edge source="KHC" target="MDLZ"/>
+<edge source="KHC" target="PEP"/>
+<edge source="KHC" target="SJM"/>
+<edge source="KKR" target="LPLA"/>
+<edge source="KKR" target="RJF"/>
+<edge source="KKR" target="SCHW"/>
+<edge source="KLAC" target="LRCX"/>
+<edge source="KLAC" target="MCHP"/>
+<edge source="KLAC" target="MU"/>
+<edge source="KLAC" target="NVDA"/>
+<edge source="KLAC" target="ON"/>
+<edge source="KLAC" target="QCOM"/>
+<edge source="KLAC" target="SANM"/>
+<edge source="KLAC" target="TXN"/>
+<edge source="KMB" target="PG"/>
+<edge source="KMI" target="LNG"/>
+<edge source="KMI" target="NGL"/>
+<edge source="KMI" target="OKE"/>
+<edge source="KMI" target="PAGP"/>
+<edge source="KMI" target="TRGP"/>
+<edge source="KMI" target="WMB"/>
+<edge source="KMX" target="LAD"/>
+<edge source="KMX" target="PAG"/>
+<edge source="KMX" target="RUSHB"/>
+<edge source="KMX" target="SAH"/>
+<edge source="KO" target="MNST"/>
+<edge source="KO" target="STZ"/>
+<edge source="KO" target="TAP"/>
+<edge source="KR" target="PFE"/>
+<edge source="KSS" target="M"/>
+<edge source="KSS" target="TGT"/>
+<edge source="KSS" target="WMT"/>
+<edge source="L" target="MKL"/>
+<edge source="L" target="ORI"/>
+<edge source="L" target="PGR"/>
+<edge source="L" target="TRV"/>
+<edge source="L" target="WRB"/>
+<edge source="LAD" target="PAG"/>
+<edge source="LAD" target="RUSHB"/>
+<edge source="LAD" target="SAH"/>
+<edge source="LDOS" target="NSIT"/>
+<edge source="LDOS" target="SAIC"/>
+<edge source="LEA" target="PCAR"/>
+<edge source="LEA" target="THO"/>
+<edge source="LEA" target="TSLA"/>
+<edge source="LEN" target="NVR"/>
+<edge source="LEN" target="PHM"/>
+<edge source="LEN" target="TMHC"/>
+<edge source="LEN" target="TOL"/>
+<edge source="LHX" target="LMT"/>
+<edge source="LHX" target="NOC"/>
+<edge source="LHX" target="RTX"/>
+<edge source="LHX" target="TXT"/>
+<edge source="LKQ" target="WCC"/>
+<edge source="LKQ" target="WSO"/>
+<edge source="LLY" target="MRK"/>
+<edge source="LLY" target="PFE"/>
+<edge source="LLY" target="REGN"/>
+<edge source="LLY" target="VRTX"/>
+<edge source="LLY" target="VTRS"/>
+<edge source="LLY" target="ZTS"/>
+<edge source="LMT" target="NOC"/>
+<edge source="LMT" target="RTX"/>
+<edge source="LMT" target="TXT"/>
+<edge source="LNC" target="MET"/>
+<edge source="LNC" target="PFG"/>
+<edge source="LNC" target="PRU"/>
+<edge source="LNC" target="RGA"/>
+<edge source="LNC" target="UNM"/>
+<edge source="LNG" target="NGL"/>
+<edge source="LNG" target="OKE"/>
+<edge source="LNG" target="PAGP"/>
+<edge source="LNG" target="TRGP"/>
+<edge source="LNG" target="WMB"/>
+<edge source="LOW" target="MUSA"/>
+<edge source="LOW" target="ODP"/>
+<edge source="LOW" target="ORLY"/>
+<edge source="LOW" target="TSCO"/>
+<edge source="LOW" target="ULTA"/>
+<edge source="LOW" target="WSM"/>
+<edge source="LPLA" target="RJF"/>
+<edge source="LPLA" target="SCHW"/>
+<edge source="LRCX" target="MCHP"/>
+<edge source="LRCX" target="MU"/>
+<edge source="LRCX" target="NVDA"/>
+<edge source="LRCX" target="ON"/>
+<edge source="LRCX" target="QCOM"/>
+<edge source="LRCX" target="SANM"/>
+<edge source="LRCX" target="TXN"/>
+<edge source="LULU" target="ROST"/>
+<edge source="LULU" target="TJX"/>
+<edge source="LUMN" target="SATS"/>
+<edge source="LUMN" target="T"/>
+<edge source="LUMN" target="VZ"/>
+<edge source="LUV" target="UAL"/>
+<edge source="LVS" target="MAR"/>
+<edge source="LVS" target="MGM"/>
+<edge source="LYV" target="NFLX"/>
+<edge source="LYV" target="WBD"/>
+<edge source="M" target="TGT"/>
+<edge source="M" target="WMT"/>
+<edge source="MA" target="PYPL"/>
+<edge source="MA" target="SPGI"/>
+<edge source="MA" target="V"/>
+<edge source="MAR" target="MGM"/>
+<edge source="MAS" target="MHK"/>
+<edge source="MAS" target="NWL"/>
+<edge source="MAS" target="SWK"/>
+<edge source="MCD" target="SBUX"/>
+<edge source="MCD" target="YUMC"/>
+<edge source="MCHP" target="MU"/>
+<edge source="MCHP" target="NVDA"/>
+<edge source="MCHP" target="ON"/>
+<edge source="MCHP" target="QCOM"/>
+<edge source="MCHP" target="SANM"/>
+<edge source="MCHP" target="TXN"/>
+<edge source="MCK" target="OMI"/>
+<edge source="MDLZ" target="PEP"/>
+<edge source="MDLZ" target="SJM"/>
+<edge source="MET" target="PFG"/>
+<edge source="MET" target="PRU"/>
+<edge source="MET" target="RGA"/>
+<edge source="MET" target="UNM"/>
+<edge source="META" target="UBER"/>
+<edge source="META" target="W"/>
+<edge source="MHK" target="NWL"/>
+<edge source="MHK" target="SWK"/>
+<edge source="MKL" target="ORI"/>
+<edge source="MKL" target="PGR"/>
+<edge source="MKL" target="TRV"/>
+<edge source="MKL" target="WRB"/>
+<edge source="MMC" target="SNEX"/>
+<edge source="MMC" target="SYF"/>
+<edge source="MMC" target="VOYA"/>
+<edge source="MMM" target="MOS"/>
+<edge source="MMM" target="PPG"/>
+<edge source="MMM" target="RPM"/>
+<edge source="MMM" target="SHW"/>
+<edge source="MMM" target="WLK"/>
+<edge source="MNST" target="STZ"/>
+<edge source="MNST" target="TAP"/>
+<edge source="MO" target="PM"/>
+<edge source="MOH" target="UNH"/>
+<edge source="MOS" target="PPG"/>
+<edge source="MOS" target="RPM"/>
+<edge source="MOS" target="SHW"/>
+<edge source="MOS" target="WLK"/>
+<edge source="MPC" target="PARR"/>
+<edge source="MPC" target="PBF"/>
+<edge source="MPC" target="PSX"/>
+<edge source="MPC" target="VLO"/>
+<edge source="MPC" target="XOM"/>
+<edge source="MRK" target="PFE"/>
+<edge source="MRK" target="REGN"/>
+<edge source="MRK" target="VRTX"/>
+<edge source="MRK" target="VTRS"/>
+<edge source="MRK" target="ZTS"/>
+<edge source="MS" target="MTB"/>
+<edge source="MS" target="NTRS"/>
+<edge source="MS" target="PNC"/>
+<edge source="MS" target="RF"/>
+<edge source="MS" target="STT"/>
+<edge source="MS" target="TFC"/>
+<edge source="MS" target="USB"/>
+<edge source="MS" target="WFC"/>
+<edge source="MSFT" target="NOW"/>
+<edge source="MSFT" target="ORCL"/>
+<edge source="MSFT" target="WDAY"/>
+<edge source="MTB" target="NTRS"/>
+<edge source="MTB" target="PNC"/>
+<edge source="MTB" target="RF"/>
+<edge source="MTB" target="STT"/>
+<edge source="MTB" target="TFC"/>
+<edge source="MTB" target="USB"/>
+<edge source="MTB" target="WFC"/>
+<edge source="MTZ" target="PWR"/>
+<edge source="MU" target="NVDA"/>
+<edge source="MU" target="ON"/>
+<edge source="MU" target="QCOM"/>
+<edge source="MU" target="SANM"/>
+<edge source="MU" target="TXN"/>
+<edge source="MUSA" target="ODP"/>
+<edge source="MUSA" target="ORLY"/>
+<edge source="MUSA" target="TSCO"/>
+<edge source="MUSA" target="ULTA"/>
+<edge source="MUSA" target="WSM"/>
+<edge source="NEE" target="PCG"/>
+<edge source="NEE" target="PEG"/>
+<edge source="NEE" target="PPL"/>
+<edge source="NEE" target="SO"/>
+<edge source="NEE" target="SRE"/>
+<edge source="NEE" target="UGI"/>
+<edge source="NEE" target="WEC"/>
+<edge source="NEE" target="XEL"/>
+<edge source="NEM" target="OVV"/>
+<edge source="NEM" target="OXY"/>
+<edge source="NFLX" target="WBD"/>
+<edge source="NGL" target="OKE"/>
+<edge source="NGL" target="PAGP"/>
+<edge source="NGL" target="TRGP"/>
+<edge source="NGL" target="WMB"/>
+<edge source="NKE" target="PVH"/>
+<edge source="NKE" target="VFC"/>
+<edge source="NOC" target="RTX"/>
+<edge source="NOC" target="TXT"/>
+<edge source="NOW" target="ORCL"/>
+<edge source="NOW" target="WDAY"/>
+<edge source="NRG" target="VST"/>
+<edge source="NRG" target="WKC"/>
+<edge source="NSC" target="UNP"/>
+<edge source="NSIT" target="SAIC"/>
+<edge source="NTRS" target="PNC"/>
+<edge source="NTRS" target="RF"/>
+<edge source="NTRS" target="STT"/>
+<edge source="NTRS" target="TFC"/>
+<edge source="NTRS" target="USB"/>
+<edge source="NTRS" target="WFC"/>
+<edge source="NUE" target="RS"/>
+<edge source="NUE" target="STLD"/>
+<edge source="NVDA" target="ON"/>
+<edge source="NVDA" target="QCOM"/>
+<edge source="NVDA" target="SANM"/>
+<edge source="NVDA" target="TXN"/>
+<edge source="NVR" target="PHM"/>
+<edge source="NVR" target="TMHC"/>
+<edge source="NVR" target="TOL"/>
+<edge source="NWL" target="SWK"/>
+<edge source="OC" target="UFPI"/>
+<edge source="OC" target="VMC"/>
+<edge source="ODP" target="ORLY"/>
+<edge source="ODP" target="TSCO"/>
+<edge source="ODP" target="ULTA"/>
+<edge source="ODP" target="WSM"/>
+<edge source="OI" target="PKG"/>
+<edge source="OKE" target="PAGP"/>
+<edge source="OKE" target="TRGP"/>
+<edge source="OKE" target="WMB"/>
+<edge source="ON" target="QCOM"/>
+<edge source="ON" target="SANM"/>
+<edge source="ON" target="TXN"/>
+<edge source="ORCL" target="WDAY"/>
+<edge source="ORI" target="PGR"/>
+<edge source="ORI" target="TRV"/>
+<edge source="ORI" target="WRB"/>
+<edge source="ORLY" target="TSCO"/>
+<edge source="ORLY" target="ULTA"/>
+<edge source="ORLY" target="WSM"/>
+<edge source="OTIS" target="PH"/>
+<edge source="OTIS" target="WAB"/>
+<edge source="OTIS" target="XYL"/>
+<edge source="OVV" target="OXY"/>
+<edge source="PAG" target="RUSHB"/>
+<edge source="PAG" target="SAH"/>
+<edge source="PAGP" target="TRGP"/>
+<edge source="PAGP" target="WMB"/>
+<edge source="PARR" target="PBF"/>
+<edge source="PARR" target="PSX"/>
+<edge source="PARR" target="VLO"/>
+<edge source="PARR" target="XOM"/>
+<edge source="PBF" target="PSX"/>
+<edge source="PBF" target="VLO"/>
+<edge source="PBF" target="XOM"/>
+<edge source="PCAR" target="THO"/>
+<edge source="PCAR" target="TSLA"/>
+<edge source="PCG" target="PEG"/>
+<edge source="PCG" target="PPL"/>
+<edge source="PCG" target="SO"/>
+<edge source="PCG" target="SRE"/>
+<edge source="PCG" target="UGI"/>
+<edge source="PCG" target="WEC"/>
+<edge source="PCG" target="XEL"/>
+<edge source="PEG" target="PPL"/>
+<edge source="PEG" target="SO"/>
+<edge source="PEG" target="SRE"/>
+<edge source="PEG" target="UGI"/>
+<edge source="PEG" target="WEC"/>
+<edge source="PEG" target="XEL"/>
+<edge source="PEP" target="SJM"/>
+<edge source="PFE" target="REGN"/>
+<edge source="PFE" target="VRTX"/>
+<edge source="PFE" target="VTRS"/>
+<edge source="PFE" target="ZTS"/>
+<edge source="PFG" target="PRU"/>
+<edge source="PFG" target="RGA"/>
+<edge source="PFG" target="UNM"/>
+<edge source="PFGC" target="SYY"/>
+<edge source="PFGC" target="UNFI"/>
+<edge source="PFGC" target="USFD"/>
+<edge source="PGR" target="TRV"/>
+<edge source="PGR" target="WRB"/>
+<edge source="PH" target="WAB"/>
+<edge source="PH" target="XYL"/>
+<edge source="PHM" target="TMHC"/>
+<edge source="PHM" target="TOL"/>
+<edge source="PNC" target="RF"/>
+<edge source="PNC" target="STT"/>
+<edge source="PNC" target="TFC"/>
+<edge source="PNC" target="USB"/>
+<edge source="PNC" target="WFC"/>
+<edge source="PPG" target="RPM"/>
+<edge source="PPG" target="SHW"/>
+<edge source="PPG" target="WLK"/>
+<edge source="PPL" target="SO"/>
+<edge source="PPL" target="SRE"/>
+<edge source="PPL" target="UGI"/>
+<edge source="PPL" target="WEC"/>
+<edge source="PPL" target="XEL"/>
+<edge source="PRU" target="RGA"/>
+<edge source="PRU" target="UNM"/>
+<edge source="PSX" target="VLO"/>
+<edge source="PSX" target="XOM"/>
+<edge source="PVH" target="VFC"/>
+<edge source="PYPL" target="SPGI"/>
+<edge source="PYPL" target="V"/>
+<edge source="QCOM" target="SANM"/>
+<edge source="QCOM" target="TXN"/>
+<edge source="R" target="XPO"/>
+<edge source="REGN" target="VRTX"/>
+<edge source="REGN" target="VTRS"/>
+<edge source="REGN" target="ZTS"/>
+<edge source="RF" target="STT"/>
+<edge source="RF" target="TFC"/>
+<edge source="RF" target="USB"/>
+<edge source="RF" target="WFC"/>
+<edge source="RGA" target="UNM"/>
+<edge source="RJF" target="SCHW"/>
+<edge source="ROK" target="WHR"/>
+<edge source="ROST" target="TJX"/>
+<edge source="RPM" target="SHW"/>
+<edge source="RPM" target="WLK"/>
+<edge source="RS" target="STLD"/>
+<edge source="RSG" target="WM"/>
+<edge source="RTX" target="TXT"/>
+<edge source="RUSHB" target="SAH"/>
+<edge source="SANM" target="TXN"/>
+<edge source="SATS" target="T"/>
+<edge source="SATS" target="VZ"/>
+<edge source="SBUX" target="YUMC"/>
+<edge source="SEB" target="TSN"/>
+<edge source="SHW" target="WLK"/>
+<edge source="SMCI" target="WDC"/>
+<edge source="SNEX" target="SYF"/>
+<edge source="SNEX" target="VOYA"/>
+<edge source="SO" target="SRE"/>
+<edge source="SO" target="UGI"/>
+<edge source="SO" target="WEC"/>
+<edge source="SO" target="XEL"/>
+<edge source="SPGI" target="V"/>
+<edge source="SRE" target="UGI"/>
+<edge source="SRE" target="WEC"/>
+<edge source="SRE" target="XEL"/>
+<edge source="STT" target="TFC"/>
+<edge source="STT" target="USB"/>
+<edge source="STT" target="WFC"/>
+<edge source="STZ" target="TAP"/>
+<edge source="SYF" target="VOYA"/>
+<edge source="SYK" target="ZBH"/>
+<edge source="SYY" target="UNFI"/>
+<edge source="SYY" target="USFD"/>
+<edge source="T" target="VZ"/>
+<edge source="TFC" target="USB"/>
+<edge source="TFC" target="WFC"/>
+<edge source="TGT" target="WMT"/>
+<edge source="THC" target="UHS"/>
+<edge source="THO" target="TSLA"/>
+<edge source="TMHC" target="TOL"/>
+<edge source="TRGP" target="WMB"/>
+<edge source="TRV" target="WRB"/>
+<edge source="TSCO" target="ULTA"/>
+<edge source="TSCO" target="WSM"/>
+<edge source="UBER" target="W"/>
+<edge source="UFPI" target="VMC"/>
+<edge source="UGI" target="WEC"/>
+<edge source="UGI" target="XEL"/>
+<edge source="ULTA" target="WSM"/>
+<edge source="UNFI" target="USFD"/>
+<edge source="USB" target="WFC"/>
+<edge source="VLO" target="XOM"/>
+<edge source="VRTX" target="VTRS"/>
+<edge source="VRTX" target="ZTS"/>
+<edge source="VST" target="WKC"/>
+<edge source="VTRS" target="ZTS"/>
+<edge source="WAB" target="XYL"/>
+<edge source="WCC" target="WSO"/>
+<edge source="WEC" target="XEL"/>
+</graph></graphml>
